@@ -22,7 +22,7 @@
  * https://ellislab.com/expressionengine/user-guide/installation/best_practices.html
  *
  */
-	$system_path = './system';
+    $system_path = '../system';
 
 
 /*
@@ -55,15 +55,15 @@
  * since errors happening before a user is authenticated will not normally
  * be shown.  Options:
  *
- *	$debug = 0;  Default setting. Errors shown based on authorization level
+ *  $debug = 0;  Default setting. Errors shown based on authorization level
  *
- *	$debug = 1;  All errors shown regardless of authorization
+ *  $debug = 1;  All errors shown regardless of authorization
  *
  * NOTE: Enabling this override can have security implications.
  * Enable it only if you have a good reason to.
  *
  */
-	$debug = 0;
+    $debug = 0;
 
 
 /*
@@ -85,11 +85,11 @@
  * set array indexes corresponding to them.
  *
  */
-//	$assign_to_config['template_group'] = '';
-//	$assign_to_config['template'] = '';
-//	$assign_to_config['site_index'] = '';
-//	$assign_to_config['site_404'] = '';
-//	$assign_to_config['global_vars'] = array(); // This array must be associative
+//  $assign_to_config['template_group'] = '';
+//  $assign_to_config['template'] = '';
+//  $assign_to_config['site_index'] = '';
+//  $assign_to_config['site_404'] = '';
+//  $assign_to_config['global_vars'] = array(); // This array must be associative
 
 
 /*
@@ -104,9 +104,9 @@
  *  Disable all routing, send everything to the frontend
  * ---------------------------------------------------------------
  */
-	$routing['directory'] = '';
-	$routing['controller'] = 'ee';
-	$routing['function'] = 'index';
+    $routing['directory'] = '';
+    $routing['controller'] = 'ee';
+    $routing['function'] = 'index';
 
 /*
  * --------------------------------------------------------------------
@@ -114,47 +114,43 @@
  * --------------------------------------------------------------------
  */
 
-	if (realpath($system_path) !== FALSE)
-	{
-		$system_path = realpath($system_path);
-	}
+    if (realpath($system_path) !== false) {
+        $system_path = realpath($system_path);
+    }
 
-	$system_path = rtrim($system_path, '/').'/';
+    $system_path = rtrim($system_path, '/').'/';
 
 /*
  * --------------------------------------------------------------------
  *  Now that we know the path, set the main constants
  * --------------------------------------------------------------------
  */
-	// The name of this file
-	define('SELF', basename(__FILE__));
+    // The name of this file
+    define('SELF', basename(__FILE__));
 
-	// Path to this file
-	define('FCPATH', __DIR__.'/');
+    // Path to this file
+    define('FCPATH', __DIR__.'/');
 
-	// Path to the "system" folder
-	define('SYSPATH', $system_path);
+    // Path to the "system" folder
+    define('SYSPATH', $system_path);
 
-	// Name of the "system folder"
-	define('SYSDIR', basename($system_path));
+    // Name of the "system folder"
+    define('SYSDIR', basename($system_path));
 
-	// The $debug value as a constant for global access
-	define('DEBUG', $debug);  unset($debug);
+    // The $debug value as a constant for global access
+    define('DEBUG', $debug);  unset($debug);
 
 /*
  * --------------------------------------------------------------------
  *  Set the error reporting level
  * --------------------------------------------------------------------
  */
-	if (DEBUG == 1)
-	{
-		error_reporting(E_ALL);
-		@ini_set('display_errors', 1);
-	}
-	else
-	{
-		error_reporting(0);
-	}
+    if (DEBUG == 1) {
+        error_reporting(E_ALL);
+        @ini_set('display_errors', 1);
+    } else {
+        error_reporting(0);
+    }
 
 /*
  *---------------------------------------------------------------
@@ -164,12 +160,11 @@
  * And away we go...
  *
  */
-	if ( ! file_exists(SYSPATH.'ee/EllisLab/ExpressionEngine/Boot/boot.php'))
-	{
-		header('HTTP/1.1 503 Service Unavailable.', TRUE, '503');
-		exit("Your system folder path does not appear to be set correctly. Please open the following file and correct this: ".pathinfo(__FILE__, PATHINFO_BASENAME));
-	}
+    if (! file_exists(SYSPATH.'ee/EllisLab/ExpressionEngine/Boot/boot.php')) {
+        header('HTTP/1.1 503 Service Unavailable.', true, '503');
+        exit("Your system folder path does not appear to be set correctly. Please open the following file and correct this: ".pathinfo(__FILE__, PATHINFO_BASENAME));
+    }
 
-	require_once SYSPATH.'ee/EllisLab/ExpressionEngine/Boot/boot.php';
+    require_once SYSPATH.'ee/EllisLab/ExpressionEngine/Boot/boot.php';
 
 // EOF
