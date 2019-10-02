@@ -1,0 +1,79 @@
+Script started on 2019-10-01 20:41:43-0400
+    cd /home/eeconf/Desktop/sites/test2
+    . myappenv/bin/activate
+    uwsgi --ini test2.ini
+end script]0;eeconf@eeconf-demo-server: ~/Desktop/sites/test2[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites/test2[00m$     cd /home/eeconf/Desktop/sitees/test2
+]0;eeconf@eeconf-demo-server: ~/Desktop/sites/test2[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites/test2[00m$     . myappenv/bin/activate
+(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites/test2[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites/test2[00m$     uwsgi --ini test22.ini
+[uWSGI] getting INI configuration from test2.ini
+*** Starting uWSGI 2.0.15-debian (64bit) on [Tue Oct  1 20:41:43 2019] ***
+compiled with version: 7.3.0 on 28 September 2018 15:41:15
+os: Linux-5.0.0-29-generic #31~18.04.1-Ubuntu SMP Thu Sep 12 18:29:21 UTC 2019
+nodename: eeconf-demo-server
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 4
+current working directory: /home/eeconf/Desktop/sites/test2
+detected binary path: /usr/bin/uwsgi-core
+dropping root privileges as early as possible
+your processes number limit is 15582
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address test2.sock fd 3
+dropping root privileges after socket binding
+dropping root privileges after plugin initialization
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 436608 bytes (426 KB) for 5 cores
+*** Operational MODE: preforking ***
+*** no app loaded. going in full dynamic mode ***
+dropping root privileges after application loading
+*** uWSGI is running in multiple interpreter mode ***
+!!!!!!!!!!!!!! WARNING !!!!!!!!!!!!!!
+no request plugin is loaded, you will not be able to manage requests.
+you may need to install the package for your language of choice, or simply load it with --plugin.
+!!!!!!!!!!! END OF WARNING !!!!!!!!!!
+spawned uWSGI master process (pid: 14010)
+spawned uWSGI worker 1 (pid: 14011, cores: 1)
+spawned uWSGI worker 2 (pid: 14012, cores: 1)
+spawned uWSGI worker 3 (pid: 14013, cores: 1)
+spawned uWSGI worker 4 (pid: 14014, cores: 1)
+spawned uWSGI worker 5 (pid: 14015, cores: 1)
+^CSIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 4 buried after 1 seconds
+worker 5 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: unix socket test2.sock removed.
+(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites/test2[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites/test2[00m$ ifconfigtouch eeconf/public/iindex.php[A(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites/test2[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites/test2[00m$ [1Pmkdir eeconf/public
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ctouch test4/index.phpp[A(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites/test2[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites/test2[00m$ [C[C[C[C[C[C[C[C[C[C3/index.php[A(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites/test2[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites/test2[00m$ [C[C[C[C[C[C[C[C[C[C2/index.php[A(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites/test2[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites/test2[00m$ [C[C[C[C[C[C[C[C[C[C1/index.php[A(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites/test2[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites/test2[00m$ [C[C[C[C[C[C[3P*/index.php
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[11Psubl .touch */index.phptest1/index.phpp[A(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites/test2[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites/test2[00m$ [C[C[C[C[C[C[C[C[C[C2/index.php[A(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites/test2[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites/test2[00m$ [C[C[C[C[C[C[C[C[C[C3/index.php[A(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites/test2[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites/test2[00m$ [C[C[C[C[C[C[C[C[C[C4/index.php[A(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites/test2[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites/test2[00m$ [1Pmkdir eeconf/public
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ctouch eeconf/public/iindex.php[A(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites/test2[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites/test2[00m$ [12Pifconfig
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ksudo nano /[3Pifconfigtouch eeconf/public/iindex.php[A(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites/test2[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites/test2[00m$ [12Pifconfig
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csudo nano /etc/init/ test2.conf
+[sudo] password for eeconf: 
+[?1049h[22;0;0t[1;24r(B[m[4l[?7h[39;49m[?1h=[?1h=[?1h=[?25l[39;49m(B[m[H[2J[22;35H(B[0;7m[ New File ](B[m[H(B[0;7m  GNU nano 2.9.3                 /etc/init/test2.conf                           [1;79H(B[m[23d(B[0;7m^G(B[m Get Help  (B[0;7m^O(B[m Write Out (B[0;7m^W(B[m Where Is  (B[0;7m^K(B[m Cut Text  (B[0;7m^J(B[m Justify   (B[0;7m^C(B[m Cur Pos[24d(B[0;7m^X(B[m Exit[14G(B[0;7m^R(B[m Read File (B[0;7m^\(B[m Replace   (B[0;7m^U(B[m Uncut Text(B[0;7m^T(B[m To Spell  (B[0;7m^_(B[m Go To Line[22d[3d[49m(B[m[?12l[?25h[?25l[1;71H(B[0;7mModified[22d(B[m[K[1;79H[3ddescription "uWSGI instance to serve test2"[5dstart on runlevel [2345][6dstop on runlevel [!2345][8dsetuid eeconf[9dsetgid www-data[11dscript[12dcd /home/eeconf/Desktop/sites/test2[13;5H. myappenv/bin/activate[14;5Huwsgi --ini test2.ini[15dend script[?12l[?25h[?25l[22d(B[0;7mSave modified buffer?  (Answering "No" will DISCARD changes.)                   [23;1H Y(B[m Yes[K[24d(B[0;7m N(B[m No  [14G   (B[0;7m^C(B[m Cancel[K[22;63H[?12l[?25h[?25l[23d(B[0;7m^G(B[m Get Help[23;21H(B[0;7mM-D(B[m DOS Format[41G(B[0;7mM-A(B[m Append[23;61H(B[0;7mM-B(B[m Backup File[24d(B[0;7m^C(B[m Cancel[17G    (B[0;7mM-M(B[m Mac Format[41G(B[0;7mM-P(B[m Prepend[24;61H(B[0;7m^T(B[m To Files[22d(B[0;7mFile Name to Write: /etc/init/test2.conf                     (B[m[22;41H[?12l[?25h[?25l[K[1;79H[1;71H(B[0;7m        (B[m[22;32H(B[0;7m[ Wrote 13 lines ](B[m[J[24;80H[?12l[?25h[24;1H[?1049l[23;0;0t[?1l>(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites/test2[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites/test2[00m$ sudo start test2
+sudo: start: command not found
+(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites/test2[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites/test2[00m$ sudo start test2[C[1@s[1@e[1@rvstart test2 [A(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites/test2[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites/test2[00m$ [C[C[C[C[C[C[C[C[Cistart test22[A(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites/test2[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites/test2[00m$ [C[C[C[C[C[C[C[C[C[Ccstart test2[A(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites/test2[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites/test2[00m$ [C[C[C[C[C[C[C[C[C[C[Cestart test2[A(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites/test2[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites/test2[00m$ [C[C[C[C[C[C[C[C[C[C[C[C start test2[A(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites/test2[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites/test2[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C
+
+start: unrecognized service
+(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites/test2[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites/test2[00m$ sudo service start teest2DD[C[C[K[K[K2[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C tes[1Pt2[A(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites/test2[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites/test2[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C test[1P2[A(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites/test2[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites/test2[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C test2[K[A(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites/test2[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites/test2[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C test2 [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P test2
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Ptest2[C[C[C[C[C[C s tart
+Failed to start test2.service: Unit test2.service not found.
+(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites/test2[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites/test2[00m$ 
+(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites/test2[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites/test2[00m$ ^C
+(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites/test2[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites/test2[00m$ 
+(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites/test2[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites/test2[00m$ 
+(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites/test2[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites/test2[00m$ sls
+
+Command 'sls' not found, but there are 21 similar ones.
+
+(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites/test2[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites/test2[00m$ ls
+[0m[01;32mdata.py[0m     [01;32mgtl.py[0m    README     [01;32msanitize.py[0m  test2.ini
+[01;32mgruyere.py[0m  [01;34mmyappenv[0m  [01;34mresources[0m  secret.txt   typescript
+(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites/test2[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites/
