@@ -1037,4 +1037,1135 @@ Delta compression using up to 4 threads.
 Compressing objects:   0% (1/949)   Compressing objects:   1% (10/949)   Compressing objects:   2% (19/949)   Compressing objects:   3% (29/949)   Compressing objects:   4% (38/949)   Compressing objects:   5% (48/949)   Compressing objects:   6% (57/949)   Compressing objects:   7% (67/949)   Compressing objects:   8% (76/949)   Compressing objects:   9% (86/949)   Compressing objects:  10% (95/949)   Compressing objects:  11% (105/949)   Compressing objects:  12% (114/949)   Compressing objects:  13% (124/949)   Compressing objects:  14% (133/949)   Compressing objects:  15% (143/949)   Compressing objects:  16% (152/949)   Compressing objects:  17% (162/949)   Compressing objects:  18% (171/949)   Compressing objects:  19% (181/949)   Compressing objects:  20% (190/949)   Compressing objects:  21% (200/949)   Compressing objects:  22% (209/949)   Compressing objects:  23% (219/949)   Compressing objects:  24% (228/949)   Compressing objects:  25% (238/949)   Compressing objects:  26% (247/949)   Compressing objects:  27% (257/949)   Compressing objects:  28% (266/949)   Compressing objects:  29% (276/949)   Compressing objects:  30% (285/949)   Compressing objects:  31% (295/949)   Compressing objects:  32% (304/949)   Compressing objects:  33% (314/949)   Compressing objects:  34% (323/949)   Compressing objects:  35% (333/949)   Compressing objects:  36% (342/949)   Compressing objects:  37% (352/949)   Compressing objects:  38% (361/949)   Compressing objects:  39% (371/949)   Compressing objects:  40% (380/949)   Compressing objects:  41% (390/949)   Compressing objects:  42% (399/949)   Compressing objects:  43% (409/949)   Compressing objects:  44% (418/949)   Compressing objects:  45% (428/949)   Compressing objects:  46% (437/949)   Compressing objects:  47% (447/949)   Compressing objects:  48% (456/949)   Compressing objects:  49% (466/949)   Compressing objects:  50% (475/949)   Compressing objects:  51% (484/949)   Compressing objects:  52% (494/949)   Compressing objects:  53% (503/949)   Compressing objects:  54% (513/949)   Compressing objects:  55% (522/949)   Compressing objects:  56% (532/949)   Compressing objects:  57% (541/949)   Compressing objects:  58% (551/949)   Compressing objects:  59% (560/949)   Compressing objects:  60% (570/949)   Compressing objects:  61% (579/949)   Compressing objects:  62% (589/949)   Compressing objects:  63% (598/949)   Compressing objects:  64% (608/949)   Compressing objects:  65% (617/949)   Compressing objects:  66% (627/949)   Compressing objects:  67% (636/949)   Compressing objects:  68% (646/949)   Compressing objects:  69% (655/949)   Compressing objects:  70% (665/949)   Compressing objects:  71% (674/949)   Compressing objects:  72% (684/949)   Compressing objects:  73% (693/949)   Compressing objects:  74% (703/949)   Compressing objects:  75% (712/949)   Compressing objects:  76% (722/949)   Compressing objects:  77% (731/949)   Compressing objects:  78% (741/949)   Compressing objects:  79% (750/949)   Compressing objects:  80% (760/949)   Compressing objects:  81% (769/949)   Compressing objects:  82% (779/949)   Compressing objects:  83% (788/949)   Compressing objects:  84% (798/949)   Compressing objects:  85% (807/949)   Compressing objects:  86% (817/949)   Compressing objects:  87% (826/949)   Compressing objects:  88% (836/949)   Compressing objects:  89% (845/949)   Compressing objects:  90% (855/949)   Compressing objects:  91% (864/949)   Compressing objects:  92% (874/949)   Compressing objects:  93% (883/949)   Compressing objects:  94% (893/949)   Compressing objects:  95% (902/949)   Compressing objects:  96% (912/949)   Compressing objects:  97% (921/949)   Compressing objects:  98% (931/949)   Compressing objects:  99% (940/949)   Compressing objects: 100% (949/949)   Compressing objects: 100% (949/949), done.
 Writing objects:   0% (1/988)   Writing objects:   1% (10/988)   Writing objects:   1% (12/988), 1.30 MiB | 1.20 MiB/s   Writing objects:   2% (20/988), 1.30 MiB | 1.20 MiB/s   Writing objects:   3% (30/988), 1.30 MiB | 1.20 MiB/s   Writing objects:   4% (40/988), 1.30 MiB | 1.20 MiB/s   Writing objects:   5% (50/988), 1.30 MiB | 1.20 MiB/s   Writing objects:   6% (60/988), 1.30 MiB | 1.20 MiB/s   Writing objects:   7% (70/988), 1.30 MiB | 1.20 MiB/s   Writing objects:   8% (80/988), 1.30 MiB | 1.20 MiB/s   Writing objects:   9% (89/988), 1.30 MiB | 1.20 MiB/s   Writing objects:  10% (99/988), 1.30 MiB | 1.20 MiB/s   Writing objects:  11% (109/988), 1.30 MiB | 1.20 MiB/s   Writing objects:  12% (119/988), 1.30 MiB | 1.20 MiB/s   Writing objects:  13% (129/988), 1.30 MiB | 1.20 MiB/s   Writing objects:  14% (139/988), 1.30 MiB | 1.20 MiB/s   Writing objects:  15% (149/988), 1.30 MiB | 1.20 MiB/s   Writing objects:  16% (159/988), 1.30 MiB | 1.20 MiB/s   Writing objects:  17% (168/988), 1.30 MiB | 1.20 MiB/s   Writing objects:  18% (178/988), 1.30 MiB | 1.20 MiB/s   Writing objects:  19% (188/988), 1.30 MiB | 1.20 MiB/s   Writing objects:  20% (198/988), 1.30 MiB | 1.20 MiB/s   Writing objects:  21% (208/988), 1.30 MiB | 1.20 MiB/s   Writing objects:  22% (218/988), 1.30 MiB | 1.20 MiB/s   Writing objects:  23% (228/988), 1.30 MiB | 1.20 MiB/s   Writing objects:  24% (238/988), 1.30 MiB | 1.20 MiB/s   Writing objects:  25% (247/988), 1.30 MiB | 1.20 MiB/s   Writing objects:  26% (257/988), 1.30 MiB | 1.20 MiB/s   Writing objects:  27% (267/988), 1.30 MiB | 1.20 MiB/s   Writing objects:  28% (277/988), 1.30 MiB | 1.20 MiB/s   Writing objects:  29% (287/988), 1.30 MiB | 1.20 MiB/s   Writing objects:  30% (297/988), 2.15 MiB | 1.35 MiB/s   Writing objects:  31% (307/988), 2.15 MiB | 1.35 MiB/s   Writing objects:  32% (318/988), 2.15 MiB | 1.35 MiB/s   Writing objects:  33% (328/988), 2.15 MiB | 1.35 MiB/s   Writing objects:  34% (336/988), 2.15 MiB | 1.35 MiB/s   Writing objects:  35% (347/988), 2.15 MiB | 1.35 MiB/s   Writing objects:  36% (356/988), 2.15 MiB | 1.35 MiB/s   Writing objects:  37% (366/988), 2.15 MiB | 1.35 MiB/s   Writing objects:  38% (376/988), 2.15 MiB | 1.35 MiB/s   Writing objects:  39% (386/988), 2.15 MiB | 1.35 MiB/s   Writing objects:  40% (396/988), 2.15 MiB | 1.35 MiB/s   Writing objects:  40% (397/988), 2.15 MiB | 1.35 MiB/s   Writing objects:  41% (406/988), 2.15 MiB | 1.35 MiB/s   Writing objects:  42% (415/988), 2.67 MiB | 1.28 MiB/s   Writing objects:  43% (425/988), 2.67 MiB | 1.28 MiB/s   Writing objects:  44% (435/988), 2.67 MiB | 1.28 MiB/s   Writing objects:  45% (445/988), 2.67 MiB | 1.28 MiB/s   Writing objects:  46% (455/988), 2.67 MiB | 1.28 MiB/s   Writing objects:  47% (465/988), 2.67 MiB | 1.28 MiB/s   Writing objects:  48% (475/988), 2.67 MiB | 1.28 MiB/s   Writing objects:  49% (485/988), 2.67 MiB | 1.28 MiB/s   Writing objects:  50% (494/988), 2.67 MiB | 1.28 MiB/s   Writing objects:  51% (504/988), 2.67 MiB | 1.28 MiB/s   Writing objects:  52% (514/988), 2.67 MiB | 1.28 MiB/s   Writing objects:  53% (524/988), 2.67 MiB | 1.28 MiB/s   Writing objects:  54% (534/988), 2.67 MiB | 1.28 MiB/s   Writing objects:  55% (544/988), 2.67 MiB | 1.28 MiB/s   Writing objects:  56% (554/988), 2.67 MiB | 1.28 MiB/s   Writing objects:  57% (564/988), 2.67 MiB | 1.28 MiB/s   Writing objects:  58% (574/988), 2.67 MiB | 1.28 MiB/s   Writing objects:  59% (583/988), 2.67 MiB | 1.28 MiB/s   Writing objects:  60% (594/988), 2.67 MiB | 1.28 MiB/s   Writing objects:  61% (603/988), 2.67 MiB | 1.28 MiB/s   Writing objects:  62% (613/988), 2.67 MiB | 1.28 MiB/s   Writing objects:  63% (623/988), 2.67 MiB | 1.28 MiB/s   Writing objects:  64% (633/988), 2.67 MiB | 1.28 MiB/s   Writing objects:  65% (643/988), 2.67 MiB | 1.28 MiB/s   Writing objects:  66% (653/988), 2.67 MiB | 1.28 MiB/s   Writing objects:  67% (662/988), 2.67 MiB | 1.28 MiB/s   Writing objects:  68% (672/988), 2.67 MiB | 1.28 MiB/s   Writing objects:  69% (682/988), 2.67 MiB | 1.28 MiB/s   Writing objects:  70% (692/988), 2.67 MiB | 1.28 MiB/s   Writing objects:  71% (702/988), 2.67 MiB | 1.28 MiB/s   Writing objects:  72% (712/988), 2.67 MiB | 1.28 MiB/s   Writing objects:  73% (722/988), 2.67 MiB | 1.28 MiB/s   Writing objects:  74% (732/988), 2.67 MiB | 1.28 MiB/s   Writing objects:  75% (741/988), 2.67 MiB | 1.28 MiB/s   Writing objects:  76% (751/988), 2.67 MiB | 1.28 MiB/s   Writing objects:  77% (761/988), 2.67 MiB | 1.28 MiB/s   Writing objects:  78% (771/988), 2.67 MiB | 1.28 MiB/s   Writing objects:  79% (781/988), 2.67 MiB | 1.28 MiB/s   Writing objects:  80% (791/988), 2.67 MiB | 1.28 MiB/s   Writing objects:  81% (801/988), 2.67 MiB | 1.28 MiB/s   Writing objects:  82% (811/988), 2.67 MiB | 1.28 MiB/s   Writing objects:  83% (821/988), 2.67 MiB | 1.28 MiB/s   Writing objects:  84% (830/988), 2.67 MiB | 1.28 MiB/s   Writing objects:  85% (840/988), 2.67 MiB | 1.28 MiB/s   Writing objects:  86% (850/988), 2.67 MiB | 1.28 MiB/s   Writing objects:  87% (860/988), 2.67 MiB | 1.28 MiB/s   Writing objects:  88% (870/988), 2.67 MiB | 1.28 MiB/s   Writing objects:  89% (880/988), 2.67 MiB | 1.28 MiB/s   Writing objects:  90% (890/988), 2.67 MiB | 1.28 MiB/s   Writing objects:  91% (900/988), 2.67 MiB | 1.28 MiB/s   Writing objects:  92% (909/988), 2.67 MiB | 1.28 MiB/s   Writing objects:  93% (919/988), 2.67 MiB | 1.28 MiB/s   Writing objects:  94% (929/988), 2.67 MiB | 1.28 MiB/s   Writing objects:  95% (939/988), 2.67 MiB | 1.28 MiB/s   Writing objects:  96% (949/988), 2.67 MiB | 1.28 MiB/s   Writing objects:  97% (959/988), 2.67 MiB | 1.28 MiB/s   Writing objects:  98% (969/988), 2.67 MiB | 1.28 MiB/s   Writing objects:  99% (979/988), 2.67 MiB | 1.28 MiB/s   Writing objects: 100% (988/988), 2.67 MiB | 1.28 MiB/s   Writing objects: 100% (988/988), 4.70 MiB | 1.74 MiB/s, done.
 Total 988 (delta 88), reused 0 (delta 0)
-remote: Resolving deltas:   0% (0/88)[Kremote: Resolving deltas:   2% (2/88)[Kremote: Resolving deltas:   3% (3/88)[Kremote: Resolving deltas:   4% (4/88)[Kremote: Resolving deltas:   5% (5/88)[Kremote: Resolving deltas:   7% (7/88)[Kremote: Resolving deltas:   9% (8/88)[Kremote: Resolving deltas:  10% (9/88)[Kremote: Resolving deltas:  11% (10/88)[Kremote: Resolving deltas:  12% (11/88)[Kremote: Resolving deltas:  17% (15/88)[Kremote: Resolving deltas:  21% (19/88)[Kremote: Resolving deltas:  28% (25/88)[Kremote: Resolving deltas:  29% (26/88)[Kremote: Resolving deltas:  30% (27/88)[Kremote: Resolving deltas:  31% (28/88)[Kremote: Resolving deltas:  38% (34/88)[Kremote: Resolving deltas:  39% (35/88)[Kremote: Resolving deltas:  40% (36/88)[Kremote: Resolving deltas:  42% (37/88)[Kremote: Resolving deltas:  44% (39/88)[Kremote: Resolving deltas:  46% (41/88)[Kremote: Resolving deltas:  47% (42/88)[Kremote: Resolving deltas:  50% (44/88)[Kremote: Resolving deltas:  51% (45/88)[Kremote: Resolving deltas:  53% (47/88)[Kremote: Resolving deltas:  54% (48/88)[Kremote: Resolving deltas:  56% (50/88)[Kremot
+remote: Resolving deltas:   0% (0/88)[Kremote: Resolving deltas:   2% (2/88)[Kremote: Resolving deltas:   3% (3/88)[Kremote: Resolving deltas:   4% (4/88)[Kremote: Resolving deltas:   5% (5/88)[Kremote: Resolving deltas:   7% (7/88)[Kremote: Resolving deltas:   9% (8/88)[Kremote: Resolving deltas:  10% (9/88)[Kremote: Resolving deltas:  11% (10/88)[Kremote: Resolving deltas:  12% (11/88)[Kremote: Resolving deltas:  17% (15/88)[Kremote: Resolving deltas:  21% (19/88)[Kremote: Resolving deltas:  28% (25/88)[Kremote: Resolving deltas:  29% (26/88)[Kremote: Resolving deltas:  30% (27/88)[Kremote: Resolving deltas:  31% (28/88)[Kremote: Resolving deltas:  38% (34/88)[Kremote: Resolving deltas:  39% (35/88)[Kremote: Resolving deltas:  40% (36/88)[Kremote: Resolving deltas:  42% (37/88)[Kremote: Resolving deltas:  44% (39/88)[Kremote: Resolving deltas:  46% (41/88)[Kremote: Resolving deltas:  47% (42/88)[Kremote: Resolving deltas:  50% (44/88)[Kremote: Resolving deltas:  51% (45/88)[Kremote: Resolving deltas:  53% (47/88)[Kremote: Resolving deltas:  54% (48/88)[Kremote: Resolving deltas:  56% (50/88)[Kremote: Resolving deltas:  57% (51/88)[Kremote: Resolving deltas:  60% (53/88)[Kremote: Resolving deltas:  62% (55/88)[Kremote: Resolving deltas:  64% (57/88)[Kremote: Resolving deltas:  67% (59/88)[Kremote: Resolving deltas:  69% (61/88)[Kremote: Resolving deltas:  70% (62/88)[Kremote: Resolving deltas:  72% (64/88)[Kremote: Resolving deltas:  73% (65/88)[Kremote: Resolving deltas:  76% (67/88)[Kremote: Resolving deltas:  77% (68/88)[Kremote: Resolving deltas:  79% (70/88)[Kremote: Resolving deltas:  80% (71/88)[Kremote: Resolving deltas:  81% (72/88)[Kremote: Resolving deltas:  82% (73/88)[Kremote: Resolving deltas:  84% (74/88)[Kremote: Resolving deltas:  85% (75/88)[Kremote: Resolving deltas:  87% (77/88)[Kremote: Resolving deltas:  88% (78/88)[Kremote: Resolving deltas:  90% (80/88)[Kremote: Resolving deltas:  92% (81/88)[Kremote: Resolving deltas:  93% (82/88)[Kremote: Resolving deltas:  94% (83/88)[Kremote: Resolving deltas:  95% (84/88)[Kremote: Resolving deltas:  96% (85/88)[Kremote: Resolving deltas:  97% (86/88)[Kremote: Resolving deltas:  98% (87/88)[Kremote: Resolving deltas: 100% (88/88)[Kremote: Resolving deltas: 100% (88/88), completed with 2 local objects.[K
+To github.com:matthewjohns0n/eeconf-sites.git
+   e6a42e4..1b28372  master -> master
+(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites/test2[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites/test2[00m$ git pull origin masteer 
+From github.com:matthewjohns0n/eeconf-sites
+ * branch            master     -> FETCH_HEAD
+gAlready up to date.
+(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites/test2[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites/test2[00m$ git add .
+(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites/test2[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites/test2[00m$ git commit -m ''a'
+[master be0716d] a
+ 1 file changed, 962 insertions(+), 1 deletion(-)
+(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites/test2[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites/test2[00m$ git show
+[?1h=[33mcommit be0716df3ae4fbf184acaebef2d441e12c7b33e1[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m[m
+Author: Matt Johnson <moosematt11@gmail.com>[m
+Date:   Wed Oct 2 17:08:53 2019 -0400[m
+[m
+    a[m
+[m
+[1mdiff --git a/test2/typescript b/test2/typescript[m[m
+[1mindex 311818e..2837b81 100644[m[m
+[1m--- a/test2/typescript[m[m
+[1m+++ b/test2/typescript[m[m
+[36m@@ -76,4 +76,965 @@[m [mCommand 'sls' not found, but there are 21 similar ones.[m[m
+ (myappenv) 0;eeconf@eeconf-demo-server: ~/Desktop/sites/test2[7m^G[27m[01;32meeconf@eeconf-de[m [01;32mmo-server[00m:[01;34m~/Desktop/sites/test2[00m$ ls[m[m
+ [0m[01;32mdata.py[0m     [01;32mgtl.py[0m    README     [01;32msanitize.py[0m  test2.ini[m[m
+ [01;32mgruyere.py[0m  [01;34mmyappenv[0m  [01;34mresources[0m  secret.txt   typescript[m[m
+[31m-(myappenv) 0;eeconf@eeconf-demo-server: ~/Desktop/sites/test2[7m^G[27m[01;32meeconf@eeconf-de[m [31m[01;32mmo-server[00m:[01;34m~/Desktop/sites/[m[m
+\ No newline at end of file[m[m
+[32m+[m[32m(myappenv) 0;eeconf@eeconf-demo-server: ~/Desktop/sites/test2[7m^G[27m[01;32meeconf@eeconf-de[m [32m[m[32m[01;32mmo-server[00m:[01;34m~/Desktop/sites/test2[00m$ git add .[m[41m[7m^M[27m[m[m
+[32m+[m[32m(myappenv) 0;eeconf@eeconf-demo-server: ~/Desktop/sites/test2[7m^G[27m[01;32meeconf@eeconf-de[m [32m[m[32m[01;32mmo-server[00m:[01;34m~/Desktop/sites/test2[00m$ git commit -m 'Chang [7m^M[27mes'[m[41m[7m^M[27m[m[m
+[32m+[m[32m[master 1b28372] Changes[m[41m[7m^M[27m[m[m
+:[K[K[?1l>(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites/test2[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites/test2[00m$ git pu[K[K[K[K[K[Kcd ../
+(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites[00m$ git add .
+(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites[00m$ git commitm[K 0m '[K[K[K[K[K -m ''a[K[Ka'
+[master 63388c3] a
+ 2 files changed, 2 insertions(+)
+ create mode 100644 eeconf/system/user/cache/current_version
+(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites[00m$ git push origin master 
+Counting objects: 13, done.
+Delta compression using up to 4 threads.
+Compressing objects:   7% (1/13)   Compressing objects:  15% (2/13)   Compressing objects:  23% (3/13)   Compressing objects:  30% (4/13)   Compressing objects:  38% (5/13)   Compressing objects:  46% (6/13)   Compressing objects:  53% (7/13)   Compressing objects:  61% (8/13)   Compressing objects:  69% (9/13)   Compressing objects:  76% (10/13)   Compressing objects:  84% (11/13)   Compressing objects:  92% (12/13)   Compressing objects: 100% (13/13)   Compressing objects: 100% (13/13), done.
+Writing objects:   7% (1/13)   Writing objects:  15% (2/13)   Writing objects:  23% (3/13)   Writing objects:  30% (4/13)   Writing objects:  38% (5/13)   Writing objects:  46% (6/13)   Writing objects:  53% (7/13)   Writing objects:  61% (8/13)   Writing objects:  69% (9/13)   Writing objects:  76% (10/13)   Writing objects:  84% (11/13)   Writing objects:  92% (12/13)   Writing objects: 100% (13/13)   Writing objects: 100% (13/13), 10.15 KiB | 5.08 MiB/s, done.
+Total 13 (delta 7), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/7)[Kremote: Resolving deltas:  14% (1/7)[Kremote: Resolving deltas:  28% (2/7)[Kremote: Resolving deltas:  42% (3/7)[Kremote: Resolving deltas:  57% (4/7)[Kremote: Resolving deltas:  71% (5/7)[Kremote: Resolving deltas:  85% (6/7)[Kremote: Resolving deltas: 100% (7/7)[Kremote: Resolving deltas: 100% (7/7), completed with 7 local objects.[K
+To github.com:matthewjohns0n/eeconf-sites.git
+   1b28372..63388c3  master -> master
+(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites[00m$ git push origin master [6Pcommit -m 'a'[8Padd .[3Pcd ../git showcommit -m 'a'[8Padd .pull origin master 
+remote: Enumerating objects: 5, done.[K
+remote: Counting objects:  20% (1/5)[Kremote: Counting objects:  40% (2/5)[Kremote: Counting objects:  60% (3/5)[Kremote: Counting objects:  80% (4/5)[Kremote: Counting objects: 100% (5/5)[Kremote: Counting objects: 100% (5/5), done.[K
+remote: Compressing objects: 100% (1/1)[Kremote: Compressing objects: 100% (1/1), done.[K
+remote: Total 4 (delta 1), reused 4 (delta 1), pack-reused 0[K
+Unpacking objects:  25% (1/4)   Unpacking objects:  50% (2/4)   Unpacking objects:  75% (3/4)   Unpacking objects: 100% (4/4)   Unpacking objects: 100% (4/4), done.
+From github.com:matthewjohns0n/eeconf-sites
+ * branch            master     -> FETCH_HEAD
+   63388c3..06d7ff7  master     -> origin/master
+Updating 63388c3..06d7ff7
+Fast-forward
+ interesting-files/file-upload-xss.html | 3 [32m+++[m
+ 1 file changed, 3 insertions(+)
+ create mode 100644 interesting-files/file-upload-xss.html
+(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites[00m$ git pull origin master 
+Warning: Permanently added the RSA host key for IP address '140.82.113.3' to the list of known hosts.
+remote: Enumerating objects: 275, done.[K
+remote: Counting objects:   0% (1/275)[Kremote: Counting objects:   1% (3/275)[Kremote: Counting objects:   2% (6/275)[Kremote: Counting objects:   3% (9/275)[Kremote: Counting objects:   4% (11/275)[Kremote: Counting objects:   5% (14/275)[Kremote: Counting objects:   6% (17/275)[Kremote: Counting objects:   7% (20/275)[Kremote: Counting objects:   8% (22/275)[Kremote: Counting objects:   9% (25/275)[Kremote: Counting objects:  10% (28/275)[Kremote: Counting objects:  11% (31/275)[Kremote: Counting objects:  12% (33/275)[Kremote: Counting objects:  13% (36/275)[Kremote: Counting objects:  14% (39/275)[Kremote: Counting objects:  15% (42/275)[Kremote: Counting objects:  16% (44/275)[Kremote: Counting objects:  17% (47/275)[Kremote: Counting objects:  18% (50/275)[Kremote: Counting objects:  19% (53/275)[Kremote: Counting objects:  20% (55/275)[Kremote: Counting objects:  21% (58/275)[Kremote: Counting objects:  22% (61/275)[Kremote: Counting objects:  23% (64/275)[Kremote: Counting objects:  24% (66/275)[Kremote: Counting objects:  25% (69/275)[Kremote: Counting objects:  26% (72/275)[Kremote: Counting objects:  27% (75/275)[Kremote: Counting objects:  28% (77/275)[Kremote: Counting objects:  29% (80/275)[Kremote: Counting objects:  30% (83/275)[Kremote: Counting objects:  31% (86/275)[Kremote: Counting objects:  32% (88/275)[Kremote: Counting objects:  33% (91/275)[Kremote: Counting objects:  34% (94/275)[Kremote: Counting objects:  35% (97/275)[Kremote: Counting objects:  36% (99/275)[Kremote: Counting objects:  37% (102/275)[Kremote: Counting objects:  38% (105/275)[Kremote: Counting objects:  39% (108/275)[Kremote: Counting objects:  40% (110/275)[Kremote: Counting objects:  41% (113/275)[Kremote: Counting objects:  42% (116/275)[Kremote: Counting objects:  43% (119/275)[Kremote: Counting objects:  44% (121/275)[Kremote: Counting objects:  45% (124/275)[Kremote: Counting objects:  46% (127/275)[Kremote: Counting objects:  47% (130/275)[Kremote: Counting objects:  48% (132/275)[Kremote: Counting objects:  49% (135/275)[Kremote: Counting objects:  50% (138/275)[Kremote: Counting objects:  51% (141/275)[Kremote: Counting objects:  52% (143/275)[Kremote: Counting objects:  53% (146/275)[Kremote: Counting objects:  54% (149/275)[Kremote: Counting objects:  55% (152/275)[Kremote: Counting objects:  56% (154/275)[Kremote: Counting objects:  57% (157/275)[Kremote: Counting objects:  58% (160/275)[Kremote: Counting objects:  59% (163/275)[Kremote: Counting objects:  60% (165/275)[Kremote: Counting objects:  61% (168/275)[Kremote: Counting objects:  62% (171/275)[Kremote: Counting objects:  63% (174/275)[Kremote: Counting objects:  64% (176/275)[Kremote: Counting objects:  65% (179/275)[Kremote: Counting objects:  66% (182/275)[Kremote: Counting objects:  67% (185/275)[Kremote: Counting objects:  68% (187/275)[Kremote: Counting objects:  69% (190/275)[Kremote: Counting objects:  70% (193/275)[Kremote: Counting objects:  71% (196/275)[Kremote: Counting objects:  72% (198/275)[Kremote: Counting objects:  73% (201/275)[Kremote: Counting objects:  74% (204/275)[Kremote: Counting objects:  75% (207/275)[Kremote: Counting objects:  76% (209/275)[Kremote: Counting objects:  77% (212/275)[Kremote: Counting objects:  78% (215/275)[Kremote: Counting objects:  79% (218/275)[Kremote: Counting objects:  80% (220/275)[Kremote: Counting objects:  81% (223/275)[Kremote: Counting objects:  82% (226/275)[Kremote: Counting objects:  83% (229/275)[Kremote: Counting objects:  84% (231/275)[Kremote: Counting objects:  85% (234/275)[Kremote: Counting objects:  86% (237/275)[Kremote: Counting objects:  87% (240/275)[Kremote: Counting objects:  88% (242/275)[Kremote: Counting objects:  89% (245/275)[Kremote: Counting objects:  90% (248/275)[Kremote: Counting objects:  91% (251/275)[Kremote: Counting objects:  92% (253/275)[Kremote: Counting objects:  93% (256/275)[Kremote: Counting objects:  94% (259/275)[Kremote: Counting objects:  95% (262/275)[Kremote: Counting objects:  96% (264/275)[Kremote: Counting objects:  97% (267/275)[Kremote: Counting objects:  98% (270/275)[Kremote: Counting objects:  99% (273/275)[Kremote: Counting objects: 100% (275/275)[Kremote: Counting objects: 100% (275/275), done.[K
+remote: Compressing objects:   0% (1/104)[Kremote: Compressing objects:   1% (2/104)[Kremote: Compressing objects:   2% (3/104)[Kremote: Compressing objects:   3% (4/104)[Kremote: Compressing objects:   4% (5/104)[Kremote: Compressing objects:   5% (6/104)[Kremote: Compressing objects:   6% (7/104)[Kremote: Compressing objects:   7% (8/104)[Kremote: Compressing objects:   8% (9/104)[Kremote: Compressing objects:   9% (10/104)[Kremote: Compressing objects:  10% (11/104)[Kremote: Compressing objects:  11% (12/104)[Kremote: Compressing objects:  12% (13/104)[Kremote: Compressing objects:  13% (14/104)[Kremote: Compressing objects:  14% (15/104)[Kremote: Compressing objects:  15% (16/104)[Kremote: Compressing objects:  16% (17/104)[Kremote: Compressing objects:  17% (18/104)[Kremote: Compressing objects:  18% (19/104)[Kremote: Compressing objects:  19% (20/104)[Kremote: Compressing objects:  20% (21/104)[Kremote: Compressing objects:  21% (22/104)remote: Compressing objects:  22% (23/104)[Kremote: Compressing objects:  23% (24/104)[Kremote: Compressing objects:  24% (25/104)[Kremote: Compressing objects:  25% (26/104)[Kremote: Compressing objects:  26% (28/104)[Kremote: Compressing objects:  27% (29/104)[Kremote: Compressing objects:  28% (30/104)[Kremote: Compressing objects:  29% (31/104)[Kremote: Compressing objects:  30% (32/104)[Kremote: Compressing objects:  31% (33/104)[Kremote: Compressing objects:  32% (34/104)[Kremote: Compressing objects:  33% (35/104)[Kremote: Compressing objects:  34% (36/104)[Kremote: Compressing objects:  35% (37/104)[Kremote: Compressing objects:  36% (38/104)[Kremote: Compressing objects:  37% (39/104)[Kremote: Compressing objects:  38% (40/104)[Kremote: Compressing objects:  39% (41/104)[Kremote: Compressing objects:  40% (42/104)[Kremote: Compressing objects:  41% (43/104)[Kremote: Compressing objects:  42% (44/104)[Kremote: Compressing objects:  43% (45/104)[Kremote: Compressing objects:  44% (46/104)[Kremote: Compressing objects:  45% (47/104)[Kremote: Compressing objects:  46% (48/104)[Kremote: Compressing objects:  47% (49/104)[Kremote: Compressing objects:  48% (50/104)[Kremote: Compressing objects:  49% (51/104)[Kremote: Compressing objects:  50% (52/104)[Kremote: Compressing objects:  51% (54/104)[Kremote: Compressing objects:  52% (55/104)[Kremote: Compressing objects:  53% (56/104)[Kremote: Compressing objects:  54% (57/104)[Kremote: Compressing objects:  55% (58/104)[Kremote: Compressing objects:  56% (59/104)[Kremote: Compressing objects:  57% (60/104)[Kremote: Compressing objects:  58% (61/104)[Kremote: Compressing objects:  59% (62/104)[Kremote: Compressing objects:  60% (63/104)[Kremote: Compressing objects:  61% (64/104)[Kremote: Compressing objects:  62% (65/104)[Kremote: Compressing objects:  63% (66/104)[Kremote: Compressing objects:  64% (67/104)[Kremote: Compressing objects:  65% (68/104)[Kremote: Compressing objects:  66% (69/104)remote: Compressing objects:  67% (70/104)[Kremote: Compressing objects:  68% (71/104)[Kremote: Compressing objects:  69% (72/104)[Kremote: Compressing objects:  70% (73/104)[Kremote: Compressing objects:  71% (74/104)[Kremote: Compressing objects:  72% (75/104)[Kremote: Compressing objects:  73% (76/104)[Kremote: Compressing objects:  74% (77/104)[Kremote: Compressing objects:  75% (78/104)[Kremote: Compressing objects:  76% (80/104)[Kremote: Compressing objects:  77% (81/104)[Kremote: Compressing objects:  78% (82/104)[Kremote: Compressing objects:  79% (83/104)[Kremote: Compressing objects:  80% (84/104)[Kremote: Compressing objects:  81% (85/104)[Kremote: Compressing objects:  82% (86/104)[Kremote: Compressing objects:  83% (87/104)[Kremote: Compressing objects:  84% (88/104)[Kremote: Compressing objects:  85% (89/104)[Kremote: Compressing objects:  86% (90/104)[Kremote: Compressing objects:  87% (91/104)[Kremote: Compressing objects:  88% (92/104)remote: Compressing objects:  89% (93/104)[Kremote: Compressing objects:  90% (94/104)[Kremote: Compressing objects:  91% (95/104)[Kremote: Compressing objects:  92% (96/104)[Kremote: Compressing objects:  93% (97/104)[Kremote: Compressing objects:  94% (98/104)[Kremote: Compressing objects:  95% (99/104)[Kremote: Compressing objects:  96% (100/104)[Kremote: Compressing objects:  97% (101/104)[Kremote: Compressing objects:  98% (102/104)[Kremote: Compressing objects:  99% (103/104)[Kremote: Compressing objects: 100% (104/104)[Kremote: Compressing objects: 100% (104/104), done.[K
+Receiving objects:   0% (1/271)   Receiving objects:   1% (3/271)   Receiving objects:   2% (6/271)   Receiving objects:   3% (9/271)   Receiving objects:   4% (11/271)   Receiving objects:   5% (14/271)   Receiving objects:   6% (17/271)   Receiving objects:   7% (19/271)   Receiving objects:   8% (22/271)   Receiving objects:   9% (25/271)   Receiving objects:  10% (28/271), 52.00 KiB | 83.00 KiB/s   Receiving objects:  11% (30/271), 52.00 KiB | 83.00 KiB/s   Receiving objects:  12% (33/271), 52.00 KiB | 83.00 KiB/s   Receiving objects:  13% (36/271), 52.00 KiB | 83.00 KiB/s   Receiving objects:  14% (38/271), 52.00 KiB | 83.00 KiB/s   Receiving objects:  15% (41/271), 52.00 KiB | 83.00 KiB/s   Receiving objects:  16% (44/271), 52.00 KiB | 83.00 KiB/s   Receiving objects:  17% (47/271), 52.00 KiB | 83.00 KiB/s   Receiving objects:  18% (49/271), 52.00 KiB | 83.00 KiB/s   Receiving objects:  19% (52/271), 52.00 KiB | 83.00 KiB/s   Receiving objects:  20% (55/271), 52.00 KiB | 83.00 KiB/s   Receiving objects:  21% (57/271), 52.00 KiB | 83.00 KiB/s   Receiving objects:  22% (60/271), 52.00 KiB | 83.00 KiB/s   Receiving objects:  23% (63/271), 52.00 KiB | 83.00 KiB/s   Receiving objects:  24% (66/271), 52.00 KiB | 83.00 KiB/s   Receiving objects:  25% (68/271), 52.00 KiB | 83.00 KiB/s   Receiving objects:  25% (69/271), 148.00 KiB | 115.00 KiB/s   Receiving objects:  25% (69/271), 268.00 KiB | 129.00 KiB/s   Receiving objects:  25% (69/271), 460.00 KiB | 136.00 KiB/s   Receiving objects:  25% (70/271), 556.00 KiB | 136.00 KiB/s   Receiving objects:  26% (71/271), 556.00 KiB | 136.00 KiB/s   Receiving objects:  26% (72/271), 1.57 MiB | 316.00 KiB/s   Receiving objects:  27% (74/271), 2.14 MiB | 390.00 KiB/s   Receiving objects:  27% (74/271), 2.72 MiB | 493.00 KiB/s   Receiving objects:  27% (75/271), 3.89 MiB | 728.00 KiB/s   Receiving objects:  27% (75/271), 5.07 MiB | 975.00 KiB/s   Receiving objects:  27% (75/271), 5.91 MiB | 1.06 MiB/s   Receiving objects:  28% (76/271), 6.22 MiB | 976.00 KiB/s   Receiving objects:  29% (79/271), 7.75 MiB | 1.03 MiB/s   Receiving objects:  30% (82/271), 8.35 MiB | 1.03 MiB/s   Receiving objects:  31% (85/271), 8.35 MiB | 1.03 MiB/s   Receiving objects:  32% (87/271), 8.35 MiB | 1.03 MiB/s   Receiving objects:  33% (90/271), 8.35 MiB | 1.03 MiB/s   Receiving objects:  34% (93/271), 8.35 MiB | 1.03 MiB/s   Receiving objects:  35% (95/271), 8.35 MiB | 1.03 MiB/s   Receiving objects:  36% (98/271), 8.35 MiB | 1.03 MiB/s   Receiving objects:  37% (101/271), 8.35 MiB | 1.03 MiB/s   Receiving objects:  38% (103/271), 8.35 MiB | 1.03 MiB/s   Receiving objects:  39% (106/271), 8.35 MiB | 1.03 MiB/s   Receiving objects:  39% (107/271), 8.94 MiB | 1.03 MiB/s   Receiving objects:  40% (109/271), 8.94 MiB | 1.03 MiB/s   Receiving objects:  41% (112/271), 8.94 MiB | 1.03 MiB/s   Receiving objects:  42% (114/271), 8.94 MiB | 1.03 MiB/s   Receiving objects:  43% (117/271), 8.94 MiB | 1.03 MiB/s   Receiving objects:  44% (120/271), 8.94 MiB | 1.03 MiB/s   Receiving objects:  45% (122/271), 8.94 MiB | 1.03 MiB/s   Receiving objects:  46% (125/271), 8.94 MiB | 1.03 MiB/s   Receiving objects:  47% (128/271), 8.94 MiB | 1.03 MiB/s   Receiving objects:  48% (131/271), 8.94 MiB | 1.03 MiB/s   Receiving objects:  49% (133/271), 8.94 MiB | 1.03 MiB/s   Receiving objects:  50% (136/271), 8.94 MiB | 1.03 MiB/s   Receiving objects:  51% (139/271), 8.94 MiB | 1.03 MiB/s   Receiving objects:  52% (141/271), 8.94 MiB | 1.03 MiB/s   Receiving objects:  53% (144/271), 8.94 MiB | 1.03 MiB/s   Receiving objects:  54% (147/271), 8.94 MiB | 1.03 MiB/s   Receiving objects:  55% (150/271), 8.94 MiB | 1.03 MiB/s   Receiving objects:  56% (152/271), 8.94 MiB | 1.03 MiB/s   Receiving objects:  57% (155/271), 8.94 MiB | 1.03 MiB/s   Receiving objects:  58% (158/271), 8.94 MiB | 1.03 MiB/s   Receiving objects:  59% (160/271), 8.94 MiB | 1.03 MiB/s   Receiving objects:  60% (163/271), 8.94 MiB | 1.03 MiB/s   Receiving objects:  61% (166/271), 8.94 MiB | 1.03 MiB/s   Receiving objects:  62% (169/271), 8.94 MiB | 1.03 MiB/s   Receiving objects:  63% (171/271), 8.94 MiB | 1.03 MiB/s   Receiving objects:  64% (174/271), 8.94 MiB | 1.03 MiB/s   Receiving objects:  65% (177/271), 8.94 MiB | 1.03 MiB/s   Receiving objects:  66% (179/271), 8.94 MiB | 1.03 MiB/s   Receiving objects:  67% (182/271), 8.94 MiB | 1.03 MiB/s   Receiving objects:  68% (185/271), 8.94 MiB | 1.03 MiB/s   Receiving objects:  69% (187/271), 8.94 MiB | 1.03 MiB/s   Receiving objects:  70% (190/271), 8.94 MiB | 1.03 MiB/s   Receiving objects:  71% (193/271), 8.94 MiB | 1.03 MiB/s   Receiving objects:  72% (196/271), 8.94 MiB | 1.03 MiB/s   Receiving objects:  73% (198/271), 8.94 MiB | 1.03 MiB/s   Receiving objects:  74% (201/271), 8.94 MiB | 1.03 MiB/s   Receiving objects:  75% (204/271), 8.94 MiB | 1.03 MiB/s   Receiving objects:  76% (206/271), 8.94 MiB | 1.03 MiB/s   Receiving objects:  77% (209/271), 8.94 MiB | 1.03 MiB/s   Receiving objects:  78% (212/271), 9.54 MiB | 1.03 MiB/s   Receiving objects:  79% (215/271), 9.54 MiB | 1.03 MiB/s   Receiving objects:  80% (217/271), 9.54 MiB | 1.03 MiB/s   Receiving objects:  81% (220/271), 9.54 MiB | 1.03 MiB/s   Receiving objects:  82% (223/271), 9.54 MiB | 1.03 MiB/s   Receiving objects:  83% (225/271), 9.54 MiB | 1.03 MiB/s   Receiving objects:  84% (228/271), 9.54 MiB | 1.03 MiB/s   Receiving objects:  85% (231/271), 9.54 MiB | 1.03 MiB/s   Receiving objects:  86% (234/271), 9.54 MiB | 1.03 MiB/s   Receiving objects:  87% (236/271), 9.54 MiB | 1.03 MiB/s   Receiving objects:  88% (239/271), 9.54 MiB | 1.03 MiB/s   remote: Total 271 (delta 164), reused 271 (delta 164), pack-reused 0[K
+Receiving objects:  89% (242/271), 9.54 MiB | 1.03 MiB/s   Receiving objects:  90% (244/271), 9.54 MiB | 1.03 MiB/s   Receiving objects:  91% (247/271), 9.54 MiB | 1.03 MiB/s   Receiving objects:  92% (250/271), 9.54 MiB | 1.03 MiB/s   Receiving objects:  93% (253/271), 9.54 MiB | 1.03 MiB/s   Receiving objects:  94% (255/271), 9.54 MiB | 1.03 MiB/s   Receiving objects:  95% (258/271), 9.54 MiB | 1.03 MiB/s   Receiving objects:  96% (261/271), 9.54 MiB | 1.03 MiB/s   Receiving objects:  97% (263/271), 9.54 MiB | 1.03 MiB/s   Receiving objects:  98% (266/271), 9.54 MiB | 1.03 MiB/s   Receiving objects:  99% (269/271), 9.54 MiB | 1.03 MiB/s   Receiving objects: 100% (271/271), 9.54 MiB | 1.03 MiB/s   Receiving objects: 100% (271/271), 9.68 MiB | 779.00 KiB/s, done.
+Resolving deltas:   0% (0/164)   Resolving deltas:  18% (31/164)   Resolving deltas:  30% (50/164)   Resolving deltas:  50% (82/164)   Resolving deltas:  67% (111/164)   Resolving deltas:  79% (131/164)   Resolving deltas:  81% (134/164)   Resolving deltas:  85% (141/164)   Resolving deltas:  86% (142/164)   Resolving deltas:  89% (147/164)   Resolving deltas:  90% (149/164)   Resolving deltas:  92% (151/164)   Resolving deltas:  94% (155/164)   Resolving deltas:  95% (156/164)   Resolving deltas:  96% (158/164)   Resolving deltas:  97% (160/164)   Resolving deltas:  98% (161/164)   Resolving deltas:  99% (163/164)   Resolving deltas: 100% (164/164)   Resolving deltas: 100% (164/164), completed with 4 local objects.
+From github.com:matthewjohns0n/eeconf-sites
+ * branch            master     -> FETCH_HEAD
+   06d7ff7..1c03efe  master     -> origin/master
+Updating 06d7ff7..1c03efe
+Fast-forward
+ .DS_Store                                          |  Bin [31m6148[m -> [32m8196[m bytes
+ test1/index.html                                   |    5 [32m+[m[31m-[m
+ test3.php/666                                      |    7 [32m+[m
+ test3.php/admin/index.php                          |  188 [32m+[m
+ test3.php/admin/phpinfo.php                        |   21 [32m+[m
+ test3.php/admin/settings.php                       |   58 [32m+[m
+ test3.php/aim.php                                  |   79 [32m+[m
+ test3.php/apps/movie_search                        |  Bin [31m0[m -> [32m55719[m bytes
+ test3.php/ba_captcha_bypass.php                    |  251 [32m+[m
+ test3.php/ba_forgotten.php                         |  389 [32m+[m
+ test3.php/ba_insecure_login.php                    |   47 [32m+[m
+ test3.php/ba_insecure_login_1.php                  |  306 [32m+[m
+ test3.php/ba_insecure_login_2.php                  |  355 [32m+[m
+ test3.php/ba_insecure_login_3.php                  |  309 [32m+[m
+ test3.php/ba_logout.php                            |  161 [32m+[m
+ test3.php/ba_logout_1.php                          |   66 [32m+[m
+ test3.php/ba_pwd_attacks.php                       |   51 [32m+[m
+ test3.php/ba_pwd_attacks_1.php                     |  307 [32m+[m
+ test3.php/ba_pwd_attacks_2.php                     |  325 [32m+[m
+ test3.php/ba_pwd_attacks_3.php                     |  329 [32m+[m
+ test3.php/ba_pwd_attacks_4.php                     |  324 [32m+[m
+ test3.php/ba_weak_pwd.php                          |  228 [32m+[m
+ test3.php/backdoor.php                             |    1 [32m+[m
+ test3.php/bof_1.php                                |  238 [32m+[m
+ test3.php/bof_2.php                                |  166 [32m+[m
+ test3.php/bugs.txt                                 |  159 [32m+[m
+ test3.php/captcha.php                              |   60 [32m+[m
+ test3.php/captcha_box.php                          |   49 [32m+[m
+ test3.php/clickjacking.php                         |  202 [32m+[m
+ test3.php/commandi.php                             |  230 [32m+[m
+ test3.php/commandi_blind.php                       |  252 [32m+[m
+ test3.php/config.inc                               |   25 [32m+[m
+ test3.php/config.inc.php                           |   33 [32m+[m
+ test3.php/connect.php                              |   50 [32m+[m
+ test3.php/connect_i.php                            |   37 [32m+[m
+ test3.php/credits.php                              |  182 [32m+[m
+ test3.php/cs_validation.php                        |  397 [32m+[m
+ test3.php/csrf_1.php                               |  328 [32m+[m
+ test3.php/csrf_2.php                               |  222 [32m+[m
+ test3.php/csrf_3.php                               |  325 [32m+[m
+ test3.php/db/bwapp.sqlite                          |  Bin [31m0[m -> [32m12288[m bytes
+ test3.php/directory_traversal_1.php                |  384 [32m+[m
+ test3.php/directory_traversal_2.php                |  376 [32m+[m
+ test3.php/documents/Iron_Man.pdf                   |  Bin [31m0[m -> [32m543803[m bytes
+ test3.php/documents/Terminator_Salvation.pdf       |  Bin [31m0[m -> [32m462949[m bytes
+ test3.php/documents/The_Amazing_Spider-Man.pdf     |  Bin [31m0[m -> [32m544600[m bytes
+ test3.php/documents/The_Cabin_in_the_Woods.pdf     |  Bin [31m0[m -> [32m526187[m bytes
+ test3.php/documents/The_Dark_Knight_Rises.pdf      |  Bin [31m0[m -> [32m756522[m bytes
+ test3.php/documents/The_Incredible_Hulk.pdf        |  Bin [31m0[m -> [32m618117[m bytes
+ test3.php/documents/bWAPP_intro.pdf                |  Bin [31m0[m -> [32m5010042[m bytes
+ test3.php/fonts/architectsdaughter.ttf             |  Bin [31m0[m -> [32m43380[m bytes
+ test3.php/fonts/arial.ttf                          |  Bin [31m0[m -> [32m772192[m bytes
+ test3.php/fonts/arialbd.ttf                        |  Bin [31m0[m -> [32m748720[m bytes
+ test3.php/fonts/arialbi.ttf                        |  Bin [31m0[m -> [32m561616[m bytes
+ test3.php/fonts/ariali.ttf                         |  Bin [31m0[m -> [32m555588[m bytes
+ test3.php/fonts/ariblk.ttf                         |  Bin [31m0[m -> [32m119876[m bytes
+ test3.php/fonts/atommicclock.gdf                   |  Bin [31m0[m -> [32m77848[m bytes
+ test3.php/fonts/backlash.gdf                       |  Bin [31m0[m -> [32m68416[m bytes
+ test3.php/fonts/hootie.gdf                         |  Bin [31m0[m -> [32m65872[m bytes
+ test3.php/functions_external.php                   |  622 [32m++[m
+ test3.php/heartbleed.php                           |  164 [32m+[m
+ test3.php/hostheader_1.php                         |  221 [32m+[m
+ test3.php/hostheader_2.php                         |  327 [32m+[m
+ test3.php/hpp-1.php                                |  171 [32m+[m
+ test3.php/hpp-2.php                                |  286 [32m+[m
+ test3.php/hpp-3.php                                |  233 [32m+[m
+ test3.php/htmli_current_url.php                    |  193 [32m+[m
+ test3.php/htmli_get.php                            |  234 [32m+[m
+ test3.php/htmli_post.php                           |  234 [32m+[m
+ test3.php/htmli_stored.php                         |  415 [32m+[m
+ test3.php/http_response_splitting.php              |  190 [32m+[m
+ test3.php/http_verb_tampering.php                  |  347 [32m+[m
+ test3.php/iframei.php                              |  224 [32m+[m
+ test3.php/images/bee_1.png                         |  Bin [31m0[m -> [32m5486[m bytes
+ test3.php/images/bg_1.jpg                          |  Bin [31m0[m -> [32m123506[m bytes
+ test3.php/images/bg_2.jpg                          |  Bin [31m0[m -> [32m376472[m bytes
+ test3.php/images/bg_3.jpg                          |  Bin [31m0[m -> [32m3188[m bytes
+ test3.php/images/blogger.png                       |  Bin [31m0[m -> [32m1026[m bytes
+ test3.php/images/captcha.png                       |  Bin [31m0[m -> [32m4445[m bytes
+ test3.php/images/cc.png                            |  Bin [31m0[m -> [32m688[m bytes
+ test3.php/images/evil_bee.png                      |  Bin [31m0[m -> [32m24939[m bytes
+ test3.php/images/facebook.png                      |  Bin [31m0[m -> [32m2636[m bytes
+ test3.php/images/favicon.ico                       |  Bin [31m0[m -> [32m1150[m bytes
+ test3.php/images/favicon_drupal.ico                |  Bin [31m0[m -> [32m15086[m bytes
+ test3.php/images/free_tickets.png                  |  Bin [31m0[m -> [32m308106[m bytes
+ test3.php/images/linkedin.png                      |  Bin [31m0[m -> [32m1742[m bytes
+ test3.php/images/mk.png                            |  Bin [31m0[m -> [32m11226[m bytes
+ test3.php/images/mme.png                           |  Bin [31m0[m -> [32m14477[m bytes
+ test3.php/images/netsparker.gif                    |  Bin [31m0[m -> [32m11967[m bytes
+ test3.php/images/netsparker.png                    |  Bin [31m0[m -> [32m1889[m bytes
+ test3.php/images/nsa.jpg                           |  Bin [31m0[m -> [32m15554[m bytes
+ test3.php/images/owasp.png                         |  Bin [31m0[m -> [32m16988[m bytes
+ test3.php/images/sb_1.jpg                          |  Bin [31m0[m -> [32m3200[m bytes
+ test3.php/images/twitter.png                       |  Bin [31m0[m -> [32m2896[m bytes
+ test3.php/images/zap.png                           |  Bin [31m0[m -> [32m17557[m bytes
+ test3.php/index.php                                |   21 [32m+[m
+ test3.php/info.php                                 |  113 [32m+[m
+ test3.php/info_install.php                         |  112 [32m+[m
+ test3.php/information_disclosure_1.php             |  198 [32m+[m
+ test3.php/information_disclosure_2.php             |  191 [32m+[m
+ test3.php/information_disclosure_3.php             |  262 [32m+[m
+ test3.php/information_disclosure_4.php             |  194 [32m+[m
+ test3.php/insecure_crypt_storage_1.php             |  208 [32m+[m
+ test3.php/insecure_crypt_storage_2.php             |  310 [32m+[m
+ test3.php/insecure_crypt_storage_3.php             |  206 [32m+[m
+ test3.php/insecure_direct_object_ref_1.php         |  325 [32m+[m
+ test3.php/insecure_direct_object_ref_2.php         |  218 [32m+[m
+ test3.php/insecure_direct_object_ref_3.php         |  184 [32m+[m
+ test3.php/insecure_iframe.php                      |  182 [32m+[m
+ test3.php/install.php                              |  296 [32m+[m
+ test3.php/insuff_transp_layer_protect_1.php        |  225 [32m+[m
+ test3.php/insuff_transp_layer_protect_2.php        |  166 [32m+[m
+ test3.php/insuff_transp_layer_protect_3.php        |  166 [32m+[m
+ test3.php/insuff_transp_layer_protect_4.php        |  166 [32m+[m
+ test3.php/js/html5.js                              |    3 [32m+[m
+ test3.php/js/jquery-1.4.4.min.js                   |  167 [32m+[m
+ test3.php/js/json2.js                              |  479 [32m++[m
+ test3.php/js/xss_ajax_1.js                         |   86 [32m+[m
+ test3.php/lang_en.php                              |    1 [32m+[m
+ test3.php/lang_fr.php                              |    1 [32m+[m
+ test3.php/lang_nl.php                              |    1 [32m+[m
+ test3.php/ldap_connect.php                         |  414 [32m+[m
+ test3.php/ldapi.php                                |  399 [32m+[m
+ test3.php/lfi_sqlitemanager.php                    |  164 [32m+[m
+ test3.php/login.php                                |  272 [32m+[m
+ test3.php/logout.php                               |   36 [32m+[m
+ test3.php/maili.php                                |  290 [32m+[m
+ test3.php/manual_interv.php                        |  205 [32m+[m
+ test3.php/message.txt                              |    1 [32m+[m
+ test3.php/password_change.php                      |  285 [32m+[m
+ test3.php/passwords/heroes.xml                     |   51 [32m+[m
+ test3.php/passwords/web.config.bak                 |   86 [32m+[m
+ test3.php/passwords/wp-config.bak                  |   31 [32m+[m
+ test3.php/php_cgi.php                              |  164 [32m+[m
+ test3.php/php_eval.php                             |  167 [32m+[m
+ test3.php/phpi.php                                 |  191 [32m+[m
+ test3.php/phpi_sqlitemanager.php                   |  164 [32m+[m
+ test3.php/phpinfo.php                              |   21 [32m+[m
+ test3.php/portal.bak                               |  229 [32m+[m
+ test3.php/portal.php                               |  229 [32m+[m
+ test3.php/portal.zip                               |  Bin [31m0[m -> [32m5396[m bytes
+ test3.php/reset.php                                |  494 [32m++[m
+ test3.php/restrict_device_access.php               |  250 [32m+[m
+ test3.php/restrict_folder_access.php               |  318 [32m+[m
+ test3.php/rlfi.php                                 |  264 [32m+[m
+ test3.php/robots.txt                               |   11 [32m+[m
+ test3.php/secret-cors-1.php                        |   25 [32m+[m
+ test3.php/secret-cors-2.php                        |   37 [32m+[m
+ test3.php/secret-cors-3.php                        |   23 [32m+[m
+ test3.php/secret.php                               |   51 [32m+[m
+ test3.php/secret_change.php                        |  257 [32m+[m
+ test3.php/secret_html.php                          |  191 [32m+[m
+ test3.php/security.php                             |   54 [32m+[m
+ test3.php/security_level_check.php                 |   42 [32m+[m
+ test3.php/security_level_set.php                   |  230 [32m+[m
+ test3.php/selections.php                           |  130 [32m+[m
+ test3.php/shellshock.php                           |  166 [32m+[m
+ test3.php/shellshock.sh                            |   15 [32m+[m
+ test3.php/sm_cors.php                              |  199 [32m+[m
+ test3.php/sm_cross_domain_policy.php               |  194 [32m+[m
+ test3.php/sm_dos_1.php                             |  166 [32m+[m
+ test3.php/sm_dos_2.php                             |  206 [32m+[m
+ test3.php/sm_dos_3.php                             |  167 [32m+[m
+ test3.php/sm_dos_4.php                             |  166 [32m+[m
+ test3.php/sm_ftp.php                               |  166 [32m+[m
+ test3.php/sm_local_priv_esc_1.php                  |  166 [32m+[m
+ test3.php/sm_local_priv_esc_2.php                  |  164 [32m+[m
+ test3.php/sm_mitm_1.php                            |  225 [32m+[m
+ test3.php/sm_mitm_2.php                            |  265 [32m+[m
+ test3.php/sm_obu_files.php                         |  177 [32m+[m
+ test3.php/sm_robots.php                            |  262 [32m+[m
+ test3.php/sm_samba.php                             |  166 [32m+[m
+ test3.php/sm_snmp.php                              |  166 [32m+[m
+ test3.php/sm_webdav.php                            |  166 [32m+[m
+ test3.php/sm_xst.php                               |  165 [32m+[m
+ test3.php/smgmt_admin_portal.php                   |  289 [32m+[m
+ test3.php/smgmt_cookies_httponly.php               |  265 [32m+[m
+ test3.php/smgmt_cookies_secure.php                 |  275 [32m+[m
+ test3.php/smgmt_sessionid_url.php                  |  205 [32m+[m
+ test3.php/smgmt_strong_sessions.php                |  315 [32m+[m
+ test3.php/soap/class.nusoap_base.php               |  996 [32m+++[m
+ test3.php/soap/class.soap_fault.php                |   90 [32m+[m
+ test3.php/soap/class.soap_parser.php               |  643 [32m++[m
+ test3.php/soap/class.soap_server.php               | 1127 [32m+++[m
+ test3.php/soap/class.soap_transport_http.php       | 1307 [32m++++[m
+ test3.php/soap/class.soap_val.php                  |  107 [32m+[m
+ test3.php/soap/class.soapclient.php                |  991 [32m+++[m
+ test3.php/soap/class.wsdl.php                      | 1938 [32m+++++[m
+ test3.php/soap/class.wsdlcache.php                 |  209 [32m+[m
+ test3.php/soap/class.xmlschema.php                 |  973 [32m+++[m
+ test3.php/soap/nusoap.php                          | 8148 [32m++++++++++++++++++++[m
+ test3.php/soap/nusoapmime.php                      |  501 [32m++[m
+ test3.php/sqli_1.php                               |  324 [32m+[m
+ test3.php/sqli_10-1.php                            |  226 [32m+[m
+ test3.php/sqli_10-2.php                            |  103 [32m+[m
+ test3.php/sqli_11.php                              |  311 [32m+[m
+ test3.php/sqli_12.php                              |  378 [32m+[m
+ test3.php/sqli_13-ps.php                           |  353 [32m+[m
+ test3.php/sqli_13.php                              |  354 [32m+[m
+ test3.php/sqli_14.php                              |  250 [32m+[m
+ test3.php/sqli_15.php                              |  261 [32m+[m
+ test3.php/sqli_16.php                              |  270 [32m+[m
+ test3.php/sqli_17.php                              |  301 [32m+[m
+ test3.php/sqli_2-ps.php                            |  353 [32m+[m
+ test3.php/sqli_2.php                               |  354 [32m+[m
+ test3.php/sqli_3.php                               |  266 [32m+[m
+ test3.php/sqli_4.php                               |  244 [32m+[m
+ test3.php/sqli_5.php                               |  249 [32m+[m
+ test3.php/sqli_6.php                               |  324 [32m+[m
+ test3.php/sqli_7.php                               |  358 [32m+[m
+ test3.php/sqli_8-1.php                             |  184 [32m+[m
+ test3.php/sqli_8-2.php                             |  120 [32m+[m
+ test3.php/sqli_9.php                               |  368 [32m+[m
+ test3.php/sqli_drupal.php                          |  164 [32m+[m
+ test3.php/ssii.php                                 |  259 [32m+[m
+ test3.php/ssrf.php                                 |  175 [32m+[m
+ test3.php/stylesheets/stylesheet.css               |  324 [32m+[m
+ .../stylesheets/stylesheet_low_resolution.css      |  324 [32m+[m
+ .../stylesheets/stylesheet_normal_resolution.css   |  324 [32m+[m
+ test3.php/test.php                                 |   21 [32m+[m
+ test3.php/top_security.php                         |  153 [32m+[m
+ test3.php/training.php                             |  121 [32m+[m
+ test3.php/training_install.php                     |  120 [32m+[m
+ test3.php/unrestricted_file_upload.php             |  246 [32m+[m
+ test3.php/unvalidated_redir_fwd_1.php              |  269 [32m+[m
+ test3.php/unvalidated_redir_fwd_2.php              |  184 [32m+[m
+ test3.php/update.php                               |  299 [32m+[m
+ test3.php/user_activation.php                      |  179 [32m+[m
+ test3.php/user_extra.php                           |  457 [32m++[m
+ test3.php/user_new.php                             |  393 [32m+[m
+ test3.php/web.config                               |   86 [32m+[m
+ test3.php/ws_soap.php                              |   40 [32m+[m
+ test3.php/xmli_1.php                               |  323 [32m+[m
+ test3.php/xmli_2.php                               |  311 [32m+[m
+ test3.php/xss_ajax_1-1.php                         |  170 [32m+[m
+ test3.php/xss_ajax_1-2.php                         |   93 [32m+[m
+ test3.php/xss_ajax_2-1.php                         |  284 [32m+[m
+ test3.php/xss_ajax_2-2.php                         |  132 [32m+[m
+ test3.php/xss_back_button.php                      |  199 [32m+[m
+ test3.php/xss_custom_header.php                    |  216 [32m+[m
+ test3.php/xss_eval.php                             |  363 [32m+[m
+ test3.php/xss_get.php                              |  234 [32m+[m
+ test3.php/xss_href-1.php                           |  171 [32m+[m
+ test3.php/xss_href-2.php                           |  286 [32m+[m
+ test3.php/xss_href-3.php                           |  233 [32m+[m
+ test3.php/xss_json.php                             |  222 [32m+[m
+ test3.php/xss_login.php                            |  266 [32m+[m
+ test3.php/xss_php_self.php                         |  234 [32m+[m
+ test3.php/xss_phpmyadmin.php                       |  164 [32m+[m
+ test3.php/xss_post.php                             |  234 [32m+[m
+ test3.php/xss_referer.php                          |  216 [32m+[m
+ test3.php/xss_sqlitemanager.php                    |  164 [32m+[m
+ test3.php/xss_stored_1.php                         |  437 [32m++[m
+ test3.php/xss_stored_2.php                         |  248 [32m+[m
+ test3.php/xss_stored_3.php                         |  358 [32m+[m
+ test3.php/xss_stored_4.php                         |  267 [32m+[m
+ test3.php/xss_user_agent.php                       |  216 [32m+[m
+ test3.php/xxe-1.php                                |  184 [32m+[m
+ test3.php/xxe-2.php                                |  123 [32m+[m
+ test3/index.php                                    |    5 [31m-[m
+ 260 files changed, 59820 insertions(+), 8 deletions(-)
+ create mode 100755 test3.php/666
+ create mode 100755 test3.php/admin/index.php
+ create mode 100755 test3.php/admin/phpinfo.php
+ create mode 100755 test3.php/admin/settings.php
+ create mode 100755 test3.php/aim.php
+ create mode 100755 test3.php/apps/movie_search
+ create mode 100755 test3.php/ba_captcha_bypass.php
+ create mode 100755 test3.php/ba_forgotten.php
+ create mode 100755 test3.php/ba_insecure_login.php
+ create mode 100755 test3.php/ba_insecure_login_1.php
+ create mode 100755 test3.php/ba_insecure_login_2.php
+ create mode 100755 test3.php/ba_insecure_login_3.php
+ create mode 100755 test3.php/ba_logout.php
+ create mode 100755 test3.php/ba_logout_1.php
+ create mode 100755 test3.php/ba_pwd_attacks.php
+ create mode 100755 test3.php/ba_pwd_attacks_1.php
+ create mode 100755 test3.php/ba_pwd_attacks_2.php
+ create mode 100755 test3.php/ba_pwd_attacks_3.php
+ create mode 100755 test3.php/ba_pwd_attacks_4.php
+ create mode 100755 test3.php/ba_weak_pwd.php
+ create mode 100755 test3.php/backdoor.php
+ create mode 100755 test3.php/bof_1.php
+ create mode 100755 test3.php/bof_2.php
+ create mode 100755 test3.php/bugs.txt
+ create mode 100755 test3.php/captcha.php
+ create mode 100755 test3.php/captcha_box.php
+ create mode 100755 test3.php/clickjacking.php
+ create mode 100755 test3.php/commandi.php
+ create mode 100755 test3.php/commandi_blind.php
+ create mode 100755 test3.php/config.inc
+ create mode 100755 test3.php/config.inc.php
+ create mode 100755 test3.php/connect.php
+ create mode 100755 test3.php/connect_i.php
+ create mode 100755 test3.php/credits.php
+ create mode 100755 test3.php/cs_validation.php
+ create mode 100755 test3.php/csrf_1.php
+ create mode 100755 test3.php/csrf_2.php
+ create mode 100755 test3.php/csrf_3.php
+ create mode 100755 test3.php/db/bwapp.sqlite
+ create mode 100755 test3.php/directory_traversal_1.php
+ create mode 100755 test3.php/directory_traversal_2.php
+ create mode 100755 test3.php/documents/Iron_Man.pdf
+ create mode 100755 test3.php/documents/Terminator_Salvation.pdf
+ create mode 100755 test3.php/documents/The_Amazing_Spider-Man.pdf
+ create mode 100755 test3.php/documents/The_Cabin_in_the_Woods.pdf
+ create mode 100755 test3.php/documents/The_Dark_Knight_Rises.pdf
+ create mode 100755 test3.php/documents/The_Incredible_Hulk.pdf
+ create mode 100755 test3.php/documents/bWAPP_intro.pdf
+ create mode 100755 test3.php/fonts/architectsdaughter.ttf
+ create mode 100755 test3.php/fonts/arial.ttf
+ create mode 100755 test3.php/fonts/arialbd.ttf
+ create mode 100755 test3.php/fonts/arialbi.ttf
+ create mode 100755 test3.php/fonts/ariali.ttf
+ create mode 100755 test3.php/fonts/ariblk.ttf
+ create mode 100755 test3.php/fonts/atommicclock.gdf
+ create mode 100755 test3.php/fonts/backlash.gdf
+ create mode 100755 test3.php/fonts/hootie.gdf
+ create mode 100755 test3.php/functions_external.php
+ create mode 100755 test3.php/heartbleed.php
+ create mode 100755 test3.php/hostheader_1.php
+ create mode 100755 test3.php/hostheader_2.php
+ create mode 100755 test3.php/hpp-1.php
+ create mode 100755 test3.php/hpp-2.php
+ create mode 100755 test3.php/hpp-3.php
+ create mode 100755 test3.php/htmli_current_url.php
+ create mode 100755 test3.php/htmli_get.php
+ create mode 100755 test3.php/htmli_post.php
+ create mode 100755 test3.php/htmli_stored.php
+ create mode 100755 test3.php/http_response_splitting.php
+ create mode 100755 test3.php/http_verb_tampering.php
+ create mode 100755 test3.php/iframei.php
+ create mode 100755 test3.php/images/bee_1.png
+ create mode 100755 test3.php/images/bg_1.jpg
+ create mode 100755 test3.php/images/bg_2.jpg
+ create mode 100755 test3.php/images/bg_3.jpg
+ create mode 100755 test3.php/images/blogger.png
+ create mode 100755 test3.php/images/captcha.png
+ create mode 100755 test3.php/images/cc.png
+ create mode 100755 test3.php/images/evil_bee.png
+ create mode 100755 test3.php/images/facebook.png
+ create mode 100755 test3.php/images/favicon.ico
+ create mode 100755 test3.php/images/favicon_drupal.ico
+ create mode 100755 test3.php/images/free_tickets.png
+ create mode 100755 test3.php/images/linkedin.png
+ create mode 100755 test3.php/images/mk.png
+ create mode 100755 test3.php/images/mme.png
+ create mode 100755 test3.php/images/netsparker.gif
+ create mode 100755 test3.php/images/netsparker.png
+ create mode 100755 test3.php/images/nsa.jpg
+ create mode 100755 test3.php/images/owasp.png
+ create mode 100755 test3.php/images/sb_1.jpg
+ create mode 100755 test3.php/images/twitter.png
+ create mode 100755 test3.php/images/zap.png
+ create mode 100755 test3.php/index.php
+ create mode 100755 test3.php/info.php
+ create mode 100755 test3.php/info_install.php
+ create mode 100755 test3.php/information_disclosure_1.php
+ create mode 100755 test3.php/information_disclosure_2.php
+ create mode 100755 test3.php/information_disclosure_3.php
+ create mode 100755 test3.php/information_disclosure_4.php
+ create mode 100755 test3.php/insecure_crypt_storage_1.php
+ create mode 100755 test3.php/insecure_crypt_storage_2.php
+ create mode 100755 test3.php/insecure_crypt_storage_3.php
+ create mode 100755 test3.php/insecure_direct_object_ref_1.php
+ create mode 100755 test3.php/insecure_direct_object_ref_2.php
+ create mode 100755 test3.php/insecure_direct_object_ref_3.php
+ create mode 100755 test3.php/insecure_iframe.php
+ create mode 100755 test3.php/install.php
+ create mode 100755 test3.php/insuff_transp_layer_protect_1.php
+ create mode 100755 test3.php/insuff_transp_layer_protect_2.php
+ create mode 100755 test3.php/insuff_transp_layer_protect_3.php
+ create mode 100755 test3.php/insuff_transp_layer_protect_4.php
+ create mode 100755 test3.php/js/html5.js
+ create mode 100755 test3.php/js/jquery-1.4.4.min.js
+ create mode 100755 test3.php/js/json2.js
+ create mode 100755 test3.php/js/xss_ajax_1.js
+ create mode 100755 test3.php/lang_en.php
+ create mode 100755 test3.php/lang_fr.php
+ create mode 100755 test3.php/lang_nl.php
+ create mode 100755 test3.php/ldap_connect.php
+ create mode 100755 test3.php/ldapi.php
+ create mode 100755 test3.php/lfi_sqlitemanager.php
+ create mode 100755 test3.php/login.php
+ create mode 100755 test3.php/logout.php
+ create mode 100755 test3.php/maili.php
+ create mode 100755 test3.php/manual_interv.php
+ create mode 100755 test3.php/message.txt
+ create mode 100755 test3.php/password_change.php
+ create mode 100755 test3.php/passwords/heroes.xml
+ create mode 100755 test3.php/passwords/web.config.bak
+ create mode 100755 test3.php/passwords/wp-config.bak
+ create mode 100755 test3.php/php_cgi.php
+ create mode 100755 test3.php/php_eval.php
+ create mode 100755 test3.php/phpi.php
+ create mode 100755 test3.php/phpi_sqlitemanager.php
+ create mode 100755 test3.php/phpinfo.php
+ create mode 100755 test3.php/portal.bak
+ create mode 100755 test3.php/portal.php
+ create mode 100755 test3.php/portal.zip
+ create mode 100755 test3.php/reset.php
+ create mode 100755 test3.php/restrict_device_access.php
+ create mode 100755 test3.php/restrict_folder_access.php
+ create mode 100755 test3.php/rlfi.php
+ create mode 100755 test3.php/robots.txt
+ create mode 100755 test3.php/secret-cors-1.php
+ create mode 100755 test3.php/secret-cors-2.php
+ create mode 100755 test3.php/secret-cors-3.php
+ create mode 100755 test3.php/secret.php
+ create mode 100755 test3.php/secret_change.php
+ create mode 100755 test3.php/secret_html.php
+ create mode 100755 test3.php/security.php
+ create mode 100755 test3.php/security_level_check.php
+ create mode 100755 test3.php/security_level_set.php
+ create mode 100755 test3.php/selections.php
+ create mode 100755 test3.php/shellshock.php
+ create mode 100755 test3.php/shellshock.sh
+ create mode 100755 test3.php/sm_cors.php
+ create mode 100755 test3.php/sm_cross_domain_policy.php
+ create mode 100755 test3.php/sm_dos_1.php
+ create mode 100755 test3.php/sm_dos_2.php
+ create mode 100755 test3.php/sm_dos_3.php
+ create mode 100755 test3.php/sm_dos_4.php
+ create mode 100755 test3.php/sm_ftp.php
+ create mode 100755 test3.php/sm_local_priv_esc_1.php
+ create mode 100755 test3.php/sm_local_priv_esc_2.php
+ create mode 100755 test3.php/sm_mitm_1.php
+ create mode 100755 test3.php/sm_mitm_2.php
+ create mode 100755 test3.php/sm_obu_files.php
+ create mode 100755 test3.php/sm_robots.php
+ create mode 100755 test3.php/sm_samba.php
+ create mode 100755 test3.php/sm_snmp.php
+ create mode 100755 test3.php/sm_webdav.php
+ create mode 100755 test3.php/sm_xst.php
+ create mode 100755 test3.php/smgmt_admin_portal.php
+ create mode 100755 test3.php/smgmt_cookies_httponly.php
+ create mode 100755 test3.php/smgmt_cookies_secure.php
+ create mode 100755 test3.php/smgmt_sessionid_url.php
+ create mode 100755 test3.php/smgmt_strong_sessions.php
+ create mode 100755 test3.php/soap/class.nusoap_base.php
+ create mode 100755 test3.php/soap/class.soap_fault.php
+ create mode 100755 test3.php/soap/class.soap_parser.php
+ create mode 100755 test3.php/soap/class.soap_server.php
+ create mode 100755 test3.php/soap/class.soap_transport_http.php
+ create mode 100755 test3.php/soap/class.soap_val.php
+ create mode 100755 test3.php/soap/class.soapclient.php
+ create mode 100755 test3.php/soap/class.wsdl.php
+ create mode 100755 test3.php/soap/class.wsdlcache.php
+ create mode 100755 test3.php/soap/class.xmlschema.php
+ create mode 100755 test3.php/soap/nusoap.php
+ create mode 100755 test3.php/soap/nusoapmime.php
+ create mode 100755 test3.php/sqli_1.php
+ create mode 100755 test3.php/sqli_10-1.php
+ create mode 100755 test3.php/sqli_10-2.php
+ create mode 100755 test3.php/sqli_11.php
+ create mode 100755 test3.php/sqli_12.php
+ create mode 100755 test3.php/sqli_13-ps.php
+ create mode 100755 test3.php/sqli_13.php
+ create mode 100755 test3.php/sqli_14.php
+ create mode 100755 test3.php/sqli_15.php
+ create mode 100755 test3.php/sqli_16.php
+ create mode 100755 test3.php/sqli_17.php
+ create mode 100755 test3.php/sqli_2-ps.php
+ create mode 100755 test3.php/sqli_2.php
+ create mode 100755 test3.php/sqli_3.php
+ create mode 100755 test3.php/sqli_4.php
+ create mode 100755 test3.php/sqli_5.php
+ create mode 100755 test3.php/sqli_6.php
+ create mode 100755 test3.php/sqli_7.php
+ create mode 100755 test3.php/sqli_8-1.php
+ create mode 100755 test3.php/sqli_8-2.php
+ create mode 100755 test3.php/sqli_9.php
+ create mode 100755 test3.php/sqli_drupal.php
+ create mode 100755 test3.php/ssii.php
+ create mode 100755 test3.php/ssrf.php
+ create mode 100755 test3.php/stylesheets/stylesheet.css
+ create mode 100755 test3.php/stylesheets/stylesheet_low_resolution.css
+ create mode 100755 test3.php/stylesheets/stylesheet_normal_resolution.css
+ create mode 100755 test3.php/test.php
+ create mode 100755 test3.php/top_security.php
+ create mode 100755 test3.php/training.php
+ create mode 100755 test3.php/training_install.php
+ create mode 100755 test3.php/unrestricted_file_upload.php
+ create mode 100755 test3.php/unvalidated_redir_fwd_1.php
+ create mode 100755 test3.php/unvalidated_redir_fwd_2.php
+ create mode 100755 test3.php/update.php
+ create mode 100755 test3.php/user_activation.php
+ create mode 100755 test3.php/user_extra.php
+ create mode 100755 test3.php/user_new.php
+ create mode 100755 test3.php/web.config
+ create mode 100755 test3.php/ws_soap.php
+ create mode 100755 test3.php/xmli_1.php
+ create mode 100755 test3.php/xmli_2.php
+ create mode 100755 test3.php/xss_ajax_1-1.php
+ create mode 100755 test3.php/xss_ajax_1-2.php
+ create mode 100755 test3.php/xss_ajax_2-1.php
+ create mode 100755 test3.php/xss_ajax_2-2.php
+ create mode 100755 test3.php/xss_back_button.php
+ create mode 100755 test3.php/xss_custom_header.php
+ create mode 100755 test3.php/xss_eval.php
+ create mode 100755 test3.php/xss_get.php
+ create mode 100755 test3.php/xss_href-1.php
+ create mode 100755 test3.php/xss_href-2.php
+ create mode 100755 test3.php/xss_href-3.php
+ create mode 100755 test3.php/xss_json.php
+ create mode 100755 test3.php/xss_login.php
+ create mode 100755 test3.php/xss_php_self.php
+ create mode 100755 test3.php/xss_phpmyadmin.php
+ create mode 100755 test3.php/xss_post.php
+ create mode 100755 test3.php/xss_referer.php
+ create mode 100755 test3.php/xss_sqlitemanager.php
+ create mode 100755 test3.php/xss_stored_1.php
+ create mode 100755 test3.php/xss_stored_2.php
+ create mode 100755 test3.php/xss_stored_3.php
+ create mode 100755 test3.php/xss_stored_4.php
+ create mode 100755 test3.php/xss_user_agent.php
+ create mode 100755 test3.php/xxe-1.php
+ create mode 100755 test3.php/xxe-2.php
+ delete mode 100644 test3/index.php
+(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites[00m$ 
+(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites[00m$ ls
+[0m[01;34meeconf[0m  [01;34minteresting-files[0m  [01;34mtest1[0m  [01;34mtest2[0m  [01;34mtest3.php[0m  [01;34mtest4[0m
+(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites[00m$ subl .
+(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites[00m$ git pull origin master 
+From github.com:matthewjohns0n/eeconf-sites
+ * branch            master     -> FETCH_HEAD
+Already up to date.
+(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites[00m$ git pull origin master 
+remote: Enumerating objects: 3, done.[K
+remote: Counting objects:  33% (1/3)[Kremote: Counting objects:  66% (2/3)[Kremote: Counting objects: 100% (3/3)[Kremote: Counting objects: 100% (3/3), done.[K
+remote: Compressing objects: 100% (1/1)[Kremote: Compressing objects: 100% (1/1), done.[K
+remote: Total 2 (delta 1), reused 2 (delta 1), pack-reused 0[K
+Unpacking objects:  50% (1/2)   Unpacking objects: 100% (2/2)   Unpacking objects: 100% (2/2), done.
+From github.com:matthewjohns0n/eeconf-sites
+ * branch            master     -> FETCH_HEAD
+   1c03efe..80912fb  master     -> origin/master
+Updating 1c03efe..80912fb
+Fast-forward
+ {test3.php => test3}/666                                    |   0
+ {test3.php => test3}/admin/index.php                        |   0
+ {test3.php => test3}/admin/phpinfo.php                      |   0
+ {test3.php => test3}/admin/settings.php                     |   0
+ {test3.php => test3}/aim.php                                |   0
+ {test3.php => test3}/apps/movie_search                      | Bin
+ {test3.php => test3}/ba_captcha_bypass.php                  |   0
+ {test3.php => test3}/ba_forgotten.php                       |   0
+ {test3.php => test3}/ba_insecure_login.php                  |   0
+ {test3.php => test3}/ba_insecure_login_1.php                |   0
+ {test3.php => test3}/ba_insecure_login_2.php                |   0
+ {test3.php => test3}/ba_insecure_login_3.php                |   0
+ {test3.php => test3}/ba_logout.php                          |   0
+ {test3.php => test3}/ba_logout_1.php                        |   0
+ {test3.php => test3}/ba_pwd_attacks.php                     |   0
+ {test3.php => test3}/ba_pwd_attacks_1.php                   |   0
+ {test3.php => test3}/ba_pwd_attacks_2.php                   |   0
+ {test3.php => test3}/ba_pwd_attacks_3.php                   |   0
+ {test3.php => test3}/ba_pwd_attacks_4.php                   |   0
+ {test3.php => test3}/ba_weak_pwd.php                        |   0
+ {test3.php => test3}/backdoor.php                           |   0
+ {test3.php => test3}/bof_1.php                              |   0
+ {test3.php => test3}/bof_2.php                              |   0
+ {test3.php => test3}/bugs.txt                               |   0
+ {test3.php => test3}/captcha.php                            |   0
+ {test3.php => test3}/captcha_box.php                        |   0
+ {test3.php => test3}/clickjacking.php                       |   0
+ {test3.php => test3}/commandi.php                           |   0
+ {test3.php => test3}/commandi_blind.php                     |   0
+ {test3.php => test3}/config.inc                             |   0
+ {test3.php => test3}/config.inc.php                         |   0
+ {test3.php => test3}/connect.php                            |   0
+ {test3.php => test3}/connect_i.php                          |   0
+ {test3.php => test3}/credits.php                            |   0
+ {test3.php => test3}/cs_validation.php                      |   0
+ {test3.php => test3}/csrf_1.php                             |   0
+ {test3.php => test3}/csrf_2.php                             |   0
+ {test3.php => test3}/csrf_3.php                             |   0
+ {test3.php => test3}/db/bwapp.sqlite                        | Bin
+ {test3.php => test3}/directory_traversal_1.php              |   0
+ {test3.php => test3}/directory_traversal_2.php              |   0
+ {test3.php => test3}/documents/Iron_Man.pdf                 | Bin
+ {test3.php => test3}/documents/Terminator_Salvation.pdf     | Bin
+ {test3.php => test3}/documents/The_Amazing_Spider-Man.pdf   | Bin
+ {test3.php => test3}/documents/The_Cabin_in_the_Woods.pdf   | Bin
+ {test3.php => test3}/documents/The_Dark_Knight_Rises.pdf    | Bin
+ {test3.php => test3}/documents/The_Incredible_Hulk.pdf      | Bin
+ {test3.php => test3}/documents/bWAPP_intro.pdf              | Bin
+ {test3.php => test3}/fonts/architectsdaughter.ttf           | Bin
+ {test3.php => test3}/fonts/arial.ttf                        | Bin
+ {test3.php => test3}/fonts/arialbd.ttf                      | Bin
+ {test3.php => test3}/fonts/arialbi.ttf                      | Bin
+ {test3.php => test3}/fonts/ariali.ttf                       | Bin
+ {test3.php => test3}/fonts/ariblk.ttf                       | Bin
+ {test3.php => test3}/fonts/atommicclock.gdf                 | Bin
+ {test3.php => test3}/fonts/backlash.gdf                     | Bin
+ {test3.php => test3}/fonts/hootie.gdf                       | Bin
+ {test3.php => test3}/functions_external.php                 |   0
+ {test3.php => test3}/heartbleed.php                         |   0
+ {test3.php => test3}/hostheader_1.php                       |   0
+ {test3.php => test3}/hostheader_2.php                       |   0
+ {test3.php => test3}/hpp-1.php                              |   0
+ {test3.php => test3}/hpp-2.php                              |   0
+ {test3.php => test3}/hpp-3.php                              |   0
+ {test3.php => test3}/htmli_current_url.php                  |   0
+ {test3.php => test3}/htmli_get.php                          |   0
+ {test3.php => test3}/htmli_post.php                         |   0
+ {test3.php => test3}/htmli_stored.php                       |   0
+ {test3.php => test3}/http_response_splitting.php            |   0
+ {test3.php => test3}/http_verb_tampering.php                |   0
+ {test3.php => test3}/iframei.php                            |   0
+ {test3.php => test3}/images/bee_1.png                       | Bin
+ {test3.php => test3}/images/bg_1.jpg                        | Bin
+ {test3.php => test3}/images/bg_2.jpg                        | Bin
+ {test3.php => test3}/images/bg_3.jpg                        | Bin
+ {test3.php => test3}/images/blogger.png                     | Bin
+ {test3.php => test3}/images/captcha.png                     | Bin
+ {test3.php => test3}/images/cc.png                          | Bin
+ {test3.php => test3}/images/evil_bee.png                    | Bin
+ {test3.php => test3}/images/facebook.png                    | Bin
+ {test3.php => test3}/images/favicon.ico                     | Bin
+ {test3.php => test3}/images/favicon_drupal.ico              | Bin
+ {test3.php => test3}/images/free_tickets.png                | Bin
+ {test3.php => test3}/images/linkedin.png                    | Bin
+ {test3.php => test3}/images/mk.png                          | Bin
+ {test3.php => test3}/images/mme.png                         | Bin
+ {test3.php => test3}/images/netsparker.gif                  | Bin
+ {test3.php => test3}/images/netsparker.png                  | Bin
+ {test3.php => test3}/images/nsa.jpg                         | Bin
+ {test3.php => test3}/images/owasp.png                       | Bin
+ {test3.php => test3}/images/sb_1.jpg                        | Bin
+ {test3.php => test3}/images/twitter.png                     | Bin
+ {test3.php => test3}/images/zap.png                         | Bin
+ {test3.php => test3}/index.php                              |   0
+ {test3.php => test3}/info.php                               |   0
+ {test3.php => test3}/info_install.php                       |   0
+ {test3.php => test3}/information_disclosure_1.php           |   0
+ {test3.php => test3}/information_disclosure_2.php           |   0
+ {test3.php => test3}/information_disclosure_3.php           |   0
+ {test3.php => test3}/information_disclosure_4.php           |   0
+ {test3.php => test3}/insecure_crypt_storage_1.php           |   0
+ {test3.php => test3}/insecure_crypt_storage_2.php           |   0
+ {test3.php => test3}/insecure_crypt_storage_3.php           |   0
+ {test3.php => test3}/insecure_direct_object_ref_1.php       |   0
+ {test3.php => test3}/insecure_direct_object_ref_2.php       |   0
+ {test3.php => test3}/insecure_direct_object_ref_3.php       |   0
+ {test3.php => test3}/insecure_iframe.php                    |   0
+ {test3.php => test3}/install.php                            |   0
+ {test3.php => test3}/insuff_transp_layer_protect_1.php      |   0
+ {test3.php => test3}/insuff_transp_layer_protect_2.php      |   0
+ {test3.php => test3}/insuff_transp_layer_protect_3.php      |   0
+ {test3.php => test3}/insuff_transp_layer_protect_4.php      |   0
+ {test3.php => test3}/js/html5.js                            |   0
+ {test3.php => test3}/js/jquery-1.4.4.min.js                 |   0
+ {test3.php => test3}/js/json2.js                            |   0
+ {test3.php => test3}/js/xss_ajax_1.js                       |   0
+ {test3.php => test3}/lang_en.php                            |   0
+ {test3.php => test3}/lang_fr.php                            |   0
+ {test3.php => test3}/lang_nl.php                            |   0
+ {test3.php => test3}/ldap_connect.php                       |   0
+ {test3.php => test3}/ldapi.php                              |   0
+ {test3.php => test3}/lfi_sqlitemanager.php                  |   0
+ {test3.php => test3}/login.php                              |   0
+ {test3.php => test3}/logout.php                             |   0
+ {test3.php => test3}/maili.php                              |   0
+ {test3.php => test3}/manual_interv.php                      |   0
+ {test3.php => test3}/message.txt                            |   0
+ {test3.php => test3}/password_change.php                    |   0
+ {test3.php => test3}/passwords/heroes.xml                   |   0
+ {test3.php => test3}/passwords/web.config.bak               |   0
+ {test3.php => test3}/passwords/wp-config.bak                |   0
+ {test3.php => test3}/php_cgi.php                            |   0
+ {test3.php => test3}/php_eval.php                           |   0
+ {test3.php => test3}/phpi.php                               |   0
+ {test3.php => test3}/phpi_sqlitemanager.php                 |   0
+ {test3.php => test3}/phpinfo.php                            |   0
+ {test3.php => test3}/portal.bak                             |   0
+ {test3.php => test3}/portal.php                             |   0
+ {test3.php => test3}/portal.zip                             | Bin
+ {test3.php => test3}/reset.php                              |   0
+ {test3.php => test3}/restrict_device_access.php             |   0
+ {test3.php => test3}/restrict_folder_access.php             |   0
+ {test3.php => test3}/rlfi.php                               |   0
+ {test3.php => test3}/robots.txt                             |   0
+ {test3.php => test3}/secret-cors-1.php                      |   0
+ {test3.php => test3}/secret-cors-2.php                      |   0
+ {test3.php => test3}/secret-cors-3.php                      |   0
+ {test3.php => test3}/secret.php                             |   0
+ {test3.php => test3}/secret_change.php                      |   0
+ {test3.php => test3}/secret_html.php                        |   0
+ {test3.php => test3}/security.php                           |   0
+ {test3.php => test3}/security_level_check.php               |   0
+ {test3.php => test3}/security_level_set.php                 |   0
+ {test3.php => test3}/selections.php                         |   0
+ {test3.php => test3}/shellshock.php                         |   0
+ {test3.php => test3}/shellshock.sh                          |   0
+ {test3.php => test3}/sm_cors.php                            |   0
+ {test3.php => test3}/sm_cross_domain_policy.php             |   0
+ {test3.php => test3}/sm_dos_1.php                           |   0
+ {test3.php => test3}/sm_dos_2.php                           |   0
+ {test3.php => test3}/sm_dos_3.php                           |   0
+ {test3.php => test3}/sm_dos_4.php                           |   0
+ {test3.php => test3}/sm_ftp.php                             |   0
+ {test3.php => test3}/sm_local_priv_esc_1.php                |   0
+ {test3.php => test3}/sm_local_priv_esc_2.php                |   0
+ {test3.php => test3}/sm_mitm_1.php                          |   0
+ {test3.php => test3}/sm_mitm_2.php                          |   0
+ {test3.php => test3}/sm_obu_files.php                       |   0
+ {test3.php => test3}/sm_robots.php                          |   0
+ {test3.php => test3}/sm_samba.php                           |   0
+ {test3.php => test3}/sm_snmp.php                            |   0
+ {test3.php => test3}/sm_webdav.php                          |   0
+ {test3.php => test3}/sm_xst.php                             |   0
+ {test3.php => test3}/smgmt_admin_portal.php                 |   0
+ {test3.php => test3}/smgmt_cookies_httponly.php             |   0
+ {test3.php => test3}/smgmt_cookies_secure.php               |   0
+ {test3.php => test3}/smgmt_sessionid_url.php                |   0
+ {test3.php => test3}/smgmt_strong_sessions.php              |   0
+ {test3.php => test3}/soap/class.nusoap_base.php             |   0
+ {test3.php => test3}/soap/class.soap_fault.php              |   0
+ {test3.php => test3}/soap/class.soap_parser.php             |   0
+ {test3.php => test3}/soap/class.soap_server.php             |   0
+ {test3.php => test3}/soap/class.soap_transport_http.php     |   0
+ {test3.php => test3}/soap/class.soap_val.php                |   0
+ {test3.php => test3}/soap/class.soapclient.php              |   0
+ {test3.php => test3}/soap/class.wsdl.php                    |   0
+ {test3.php => test3}/soap/class.wsdlcache.php               |   0
+ {test3.php => test3}/soap/class.xmlschema.php               |   0
+ {test3.php => test3}/soap/nusoap.php                        |   0
+ {test3.php => test3}/soap/nusoapmime.php                    |   0
+ {test3.php => test3}/sqli_1.php                             |   0
+ {test3.php => test3}/sqli_10-1.php                          |   0
+ {test3.php => test3}/sqli_10-2.php                          |   0
+ {test3.php => test3}/sqli_11.php                            |   0
+ {test3.php => test3}/sqli_12.php                            |   0
+ {test3.php => test3}/sqli_13-ps.php                         |   0
+ {test3.php => test3}/sqli_13.php                            |   0
+ {test3.php => test3}/sqli_14.php                            |   0
+ {test3.php => test3}/sqli_15.php                            |   0
+ {test3.php => test3}/sqli_16.php                            |   0
+ {test3.php => test3}/sqli_17.php                            |   0
+ {test3.php => test3}/sqli_2-ps.php                          |   0
+ {test3.php => test3}/sqli_2.php                             |   0
+ {test3.php => test3}/sqli_3.php                             |   0
+ {test3.php => test3}/sqli_4.php                             |   0
+ {test3.php => test3}/sqli_5.php                             |   0
+ {test3.php => test3}/sqli_6.php                             |   0
+ {test3.php => test3}/sqli_7.php                             |   0
+ {test3.php => test3}/sqli_8-1.php                           |   0
+ {test3.php => test3}/sqli_8-2.php                           |   0
+ {test3.php => test3}/sqli_9.php                             |   0
+ {test3.php => test3}/sqli_drupal.php                        |   0
+ {test3.php => test3}/ssii.php                               |   0
+ {test3.php => test3}/ssrf.php                               |   0
+ {test3.php => test3}/stylesheets/stylesheet.css             |   0
+ .../stylesheets/stylesheet_low_resolution.css               |   0
+ .../stylesheets/stylesheet_normal_resolution.css            |   0
+ {test3.php => test3}/test.php                               |   0
+ {test3.php => test3}/top_security.php                       |   0
+ {test3.php => test3}/training.php                           |   0
+ {test3.php => test3}/training_install.php                   |   0
+ {test3.php => test3}/unrestricted_file_upload.php           |   0
+ {test3.php => test3}/unvalidated_redir_fwd_1.php            |   0
+ {test3.php => test3}/unvalidated_redir_fwd_2.php            |   0
+ {test3.php => test3}/update.php                             |   0
+ {test3.php => test3}/user_activation.php                    |   0
+ {test3.php => test3}/user_extra.php                         |   0
+ {test3.php => test3}/user_new.php                           |   0
+ {test3.php => test3}/web.config                             |   0
+ {test3.php => test3}/ws_soap.php                            |   0
+ {test3.php => test3}/xmli_1.php                             |   0
+ {test3.php => test3}/xmli_2.php                             |   0
+ {test3.php => test3}/xss_ajax_1-1.php                       |   0
+ {test3.php => test3}/xss_ajax_1-2.php                       |   0
+ {test3.php => test3}/xss_ajax_2-1.php                       |   0
+ {test3.php => test3}/xss_ajax_2-2.php                       |   0
+ {test3.php => test3}/xss_back_button.php                    |   0
+ {test3.php => test3}/xss_custom_header.php                  |   0
+ {test3.php => test3}/xss_eval.php                           |   0
+ {test3.php => test3}/xss_get.php                            |   0
+ {test3.php => test3}/xss_href-1.php                         |   0
+ {test3.php => test3}/xss_href-2.php                         |   0
+ {test3.php => test3}/xss_href-3.php                         |   0
+ {test3.php => test3}/xss_json.php                           |   0
+ {test3.php => test3}/xss_login.php                          |   0
+ {test3.php => test3}/xss_php_self.php                       |   0
+ {test3.php => test3}/xss_phpmyadmin.php                     |   0
+ {test3.php => test3}/xss_post.php                           |   0
+ {test3.php => test3}/xss_referer.php                        |   0
+ {test3.php => test3}/xss_sqlitemanager.php                  |   0
+ {test3.php => test3}/xss_stored_1.php                       |   0
+ {test3.php => test3}/xss_stored_2.php                       |   0
+ {test3.php => test3}/xss_stored_3.php                       |   0
+ {test3.php => test3}/xss_stored_4.php                       |   0
+ {test3.php => test3}/xss_user_agent.php                     |   0
+ {test3.php => test3}/xxe-1.php                              |   0
+ {test3.php => test3}/xxe-2.php                              |   0
+ 257 files changed, 0 insertions(+), 0 deletions(-)
+ rename {test3.php => test3}/666 (100%)
+ rename {test3.php => test3}/admin/index.php (100%)
+ rename {test3.php => test3}/admin/phpinfo.php (100%)
+ rename {test3.php => test3}/admin/settings.php (100%)
+ rename {test3.php => test3}/aim.php (100%)
+ rename {test3.php => test3}/apps/movie_search (100%)
+ rename {test3.php => test3}/ba_captcha_bypass.php (100%)
+ rename {test3.php => test3}/ba_forgotten.php (100%)
+ rename {test3.php => test3}/ba_insecure_login.php (100%)
+ rename {test3.php => test3}/ba_insecure_login_1.php (100%)
+ rename {test3.php => test3}/ba_insecure_login_2.php (100%)
+ rename {test3.php => test3}/ba_insecure_login_3.php (100%)
+ rename {test3.php => test3}/ba_logout.php (100%)
+ rename {test3.php => test3}/ba_logout_1.php (100%)
+ rename {test3.php => test3}/ba_pwd_attacks.php (100%)
+ rename {test3.php => test3}/ba_pwd_attacks_1.php (100%)
+ rename {test3.php => test3}/ba_pwd_attacks_2.php (100%)
+ rename {test3.php => test3}/ba_pwd_attacks_3.php (100%)
+ rename {test3.php => test3}/ba_pwd_attacks_4.php (100%)
+ rename {test3.php => test3}/ba_weak_pwd.php (100%)
+ rename {test3.php => test3}/backdoor.php (100%)
+ rename {test3.php => test3}/bof_1.php (100%)
+ rename {test3.php => test3}/bof_2.php (100%)
+ rename {test3.php => test3}/bugs.txt (100%)
+ rename {test3.php => test3}/captcha.php (100%)
+ rename {test3.php => test3}/captcha_box.php (100%)
+ rename {test3.php => test3}/clickjacking.php (100%)
+ rename {test3.php => test3}/commandi.php (100%)
+ rename {test3.php => test3}/commandi_blind.php (100%)
+ rename {test3.php => test3}/config.inc (100%)
+ rename {test3.php => test3}/config.inc.php (100%)
+ rename {test3.php => test3}/connect.php (100%)
+ rename {test3.php => test3}/connect_i.php (100%)
+ rename {test3.php => test3}/credits.php (100%)
+ rename {test3.php => test3}/cs_validation.php (100%)
+ rename {test3.php => test3}/csrf_1.php (100%)
+ rename {test3.php => test3}/csrf_2.php (100%)
+ rename {test3.php => test3}/csrf_3.php (100%)
+ rename {test3.php => test3}/db/bwapp.sqlite (100%)
+ rename {test3.php => test3}/directory_traversal_1.php (100%)
+ rename {test3.php => test3}/directory_traversal_2.php (100%)
+ rename {test3.php => test3}/documents/Iron_Man.pdf (100%)
+ rename {test3.php => test3}/documents/Terminator_Salvation.pdf (100%)
+ rename {test3.php => test3}/documents/The_Amazing_Spider-Man.pdf (100%)
+ rename {test3.php => test3}/documents/The_Cabin_in_the_Woods.pdf (100%)
+ rename {test3.php => test3}/documents/The_Dark_Knight_Rises.pdf (100%)
+ rename {test3.php => test3}/documents/The_Incredible_Hulk.pdf (100%)
+ rename {test3.php => test3}/documents/bWAPP_intro.pdf (100%)
+ rename {test3.php => test3}/fonts/architectsdaughter.ttf (100%)
+ rename {test3.php => test3}/fonts/arial.ttf (100%)
+ rename {test3.php => test3}/fonts/arialbd.ttf (100%)
+ rename {test3.php => test3}/fonts/arialbi.ttf (100%)
+ rename {test3.php => test3}/fonts/ariali.ttf (100%)
+ rename {test3.php => test3}/fonts/ariblk.ttf (100%)
+ rename {test3.php => test3}/fonts/atommicclock.gdf (100%)
+ rename {test3.php => test3}/fonts/backlash.gdf (100%)
+ rename {test3.php => test3}/fonts/hootie.gdf (100%)
+ rename {test3.php => test3}/functions_external.php (100%)
+ rename {test3.php => test3}/heartbleed.php (100%)
+ rename {test3.php => test3}/hostheader_1.php (100%)
+ rename {test3.php => test3}/hostheader_2.php (100%)
+ rename {test3.php => test3}/hpp-1.php (100%)
+ rename {test3.php => test3}/hpp-2.php (100%)
+ rename {test3.php => test3}/hpp-3.php (100%)
+ rename {test3.php => test3}/htmli_current_url.php (100%)
+ rename {test3.php => test3}/htmli_get.php (100%)
+ rename {test3.php => test3}/htmli_post.php (100%)
+ rename {test3.php => test3}/htmli_stored.php (100%)
+ rename {test3.php => test3}/http_response_splitting.php (100%)
+ rename {test3.php => test3}/http_verb_tampering.php (100%)
+ rename {test3.php => test3}/iframei.php (100%)
+ rename {test3.php => test3}/images/bee_1.png (100%)
+ rename {test3.php => test3}/images/bg_1.jpg (100%)
+ rename {test3.php => test3}/images/bg_2.jpg (100%)
+ rename {test3.php => test3}/images/bg_3.jpg (100%)
+ rename {test3.php => test3}/images/blogger.png (100%)
+ rename {test3.php => test3}/images/captcha.png (100%)
+ rename {test3.php => test3}/images/cc.png (100%)
+ rename {test3.php => test3}/images/evil_bee.png (100%)
+ rename {test3.php => test3}/images/facebook.png (100%)
+ rename {test3.php => test3}/images/favicon.ico (100%)
+ rename {test3.php => test3}/images/favicon_drupal.ico (100%)
+ rename {test3.php => test3}/images/free_tickets.png (100%)
+ rename {test3.php => test3}/images/linkedin.png (100%)
+ rename {test3.php => test3}/images/mk.png (100%)
+ rename {test3.php => test3}/images/mme.png (100%)
+ rename {test3.php => test3}/images/netsparker.gif (100%)
+ rename {test3.php => test3}/images/netsparker.png (100%)
+ rename {test3.php => test3}/images/nsa.jpg (100%)
+ rename {test3.php => test3}/images/owasp.png (100%)
+ rename {test3.php => test3}/images/sb_1.jpg (100%)
+ rename {test3.php => test3}/images/twitter.png (100%)
+ rename {test3.php => test3}/images/zap.png (100%)
+ rename {test3.php => test3}/index.php (100%)
+ rename {test3.php => test3}/info.php (100%)
+ rename {test3.php => test3}/info_install.php (100%)
+ rename {test3.php => test3}/information_disclosure_1.php (100%)
+ rename {test3.php => test3}/information_disclosure_2.php (100%)
+ rename {test3.php => test3}/information_disclosure_3.php (100%)
+ rename {test3.php => test3}/information_disclosure_4.php (100%)
+ rename {test3.php => test3}/insecure_crypt_storage_1.php (100%)
+ rename {test3.php => test3}/insecure_crypt_storage_2.php (100%)
+ rename {test3.php => test3}/insecure_crypt_storage_3.php (100%)
+ rename {test3.php => test3}/insecure_direct_object_ref_1.php (100%)
+ rename {test3.php => test3}/insecure_direct_object_ref_2.php (100%)
+ rename {test3.php => test3}/insecure_direct_object_ref_3.php (100%)
+ rename {test3.php => test3}/insecure_iframe.php (100%)
+ rename {test3.php => test3}/install.php (100%)
+ rename {test3.php => test3}/insuff_transp_layer_protect_1.php (100%)
+ rename {test3.php => test3}/insuff_transp_layer_protect_2.php (100%)
+ rename {test3.php => test3}/insuff_transp_layer_protect_3.php (100%)
+ rename {test3.php => test3}/insuff_transp_layer_protect_4.php (100%)
+ rename {test3.php => test3}/js/html5.js (100%)
+ rename {test3.php => test3}/js/jquery-1.4.4.min.js (100%)
+ rename {test3.php => test3}/js/json2.js (100%)
+ rename {test3.php => test3}/js/xss_ajax_1.js (100%)
+ rename {test3.php => test3}/lang_en.php (100%)
+ rename {test3.php => test3}/lang_fr.php (100%)
+ rename {test3.php => test3}/lang_nl.php (100%)
+ rename {test3.php => test3}/ldap_connect.php (100%)
+ rename {test3.php => test3}/ldapi.php (100%)
+ rename {test3.php => test3}/lfi_sqlitemanager.php (100%)
+ rename {test3.php => test3}/login.php (100%)
+ rename {test3.php => test3}/logout.php (100%)
+ rename {test3.php => test3}/maili.php (100%)
+ rename {test3.php => test3}/manual_interv.php (100%)
+ rename {test3.php => test3}/message.txt (100%)
+ rename {test3.php => test3}/password_change.php (100%)
+ rename {test3.php => test3}/passwords/heroes.xml (100%)
+ rename {test3.php => test3}/passwords/web.config.bak (100%)
+ rename {test3.php => test3}/passwords/wp-config.bak (100%)
+ rename {test3.php => test3}/php_cgi.php (100%)
+ rename {test3.php => test3}/php_eval.php (100%)
+ rename {test3.php => test3}/phpi.php (100%)
+ rename {test3.php => test3}/phpi_sqlitemanager.php (100%)
+ rename {test3.php => test3}/phpinfo.php (100%)
+ rename {test3.php => test3}/portal.bak (100%)
+ rename {test3.php => test3}/portal.php (100%)
+ rename {test3.php => test3}/portal.zip (100%)
+ rename {test3.php => test3}/reset.php (100%)
+ rename {test3.php => test3}/restrict_device_access.php (100%)
+ rename {test3.php => test3}/restrict_folder_access.php (100%)
+ rename {test3.php => test3}/rlfi.php (100%)
+ rename {test3.php => test3}/robots.txt (100%)
+ rename {test3.php => test3}/secret-cors-1.php (100%)
+ rename {test3.php => test3}/secret-cors-2.php (100%)
+ rename {test3.php => test3}/secret-cors-3.php (100%)
+ rename {test3.php => test3}/secret.php (100%)
+ rename {test3.php => test3}/secret_change.php (100%)
+ rename {test3.php => test3}/secret_html.php (100%)
+ rename {test3.php => test3}/security.php (100%)
+ rename {test3.php => test3}/security_level_check.php (100%)
+ rename {test3.php => test3}/security_level_set.php (100%)
+ rename {test3.php => test3}/selections.php (100%)
+ rename {test3.php => test3}/shellshock.php (100%)
+ rename {test3.php => test3}/shellshock.sh (100%)
+ rename {test3.php => test3}/sm_cors.php (100%)
+ rename {test3.php => test3}/sm_cross_domain_policy.php (100%)
+ rename {test3.php => test3}/sm_dos_1.php (100%)
+ rename {test3.php => test3}/sm_dos_2.php (100%)
+ rename {test3.php => test3}/sm_dos_3.php (100%)
+ rename {test3.php => test3}/sm_dos_4.php (100%)
+ rename {test3.php => test3}/sm_ftp.php (100%)
+ rename {test3.php => test3}/sm_local_priv_esc_1.php (100%)
+ rename {test3.php => test3}/sm_local_priv_esc_2.php (100%)
+ rename {test3.php => test3}/sm_mitm_1.php (100%)
+ rename {test3.php => test3}/sm_mitm_2.php (100%)
+ rename {test3.php => test3}/sm_obu_files.php (100%)
+ rename {test3.php => test3}/sm_robots.php (100%)
+ rename {test3.php => test3}/sm_samba.php (100%)
+ rename {test3.php => test3}/sm_snmp.php (100%)
+ rename {test3.php => test3}/sm_webdav.php (100%)
+ rename {test3.php => test3}/sm_xst.php (100%)
+ rename {test3.php => test3}/smgmt_admin_portal.php (100%)
+ rename {test3.php => test3}/smgmt_cookies_httponly.php (100%)
+ rename {test3.php => test3}/smgmt_cookies_secure.php (100%)
+ rename {test3.php => test3}/smgmt_sessionid_url.php (100%)
+ rename {test3.php => test3}/smgmt_strong_sessions.php (100%)
+ rename {test3.php => test3}/soap/class.nusoap_base.php (100%)
+ rename {test3.php => test3}/soap/class.soap_fault.php (100%)
+ rename {test3.php => test3}/soap/class.soap_parser.php (100%)
+ rename {test3.php => test3}/soap/class.soap_server.php (100%)
+ rename {test3.php => test3}/soap/class.soap_transport_http.php (100%)
+ rename {test3.php => test3}/soap/class.soap_val.php (100%)
+ rename {test3.php => test3}/soap/class.soapclient.php (100%)
+ rename {test3.php => test3}/soap/class.wsdl.php (100%)
+ rename {test3.php => test3}/soap/class.wsdlcache.php (100%)
+ rename {test3.php => test3}/soap/class.xmlschema.php (100%)
+ rename {test3.php => test3}/soap/nusoap.php (100%)
+ rename {test3.php => test3}/soap/nusoapmime.php (100%)
+ rename {test3.php => test3}/sqli_1.php (100%)
+ rename {test3.php => test3}/sqli_10-1.php (100%)
+ rename {test3.php => test3}/sqli_10-2.php (100%)
+ rename {test3.php => test3}/sqli_11.php (100%)
+ rename {test3.php => test3}/sqli_12.php (100%)
+ rename {test3.php => test3}/sqli_13-ps.php (100%)
+ rename {test3.php => test3}/sqli_13.php (100%)
+ rename {test3.php => test3}/sqli_14.php (100%)
+ rename {test3.php => test3}/sqli_15.php (100%)
+ rename {test3.php => test3}/sqli_16.php (100%)
+ rename {test3.php => test3}/sqli_17.php (100%)
+ rename {test3.php => test3}/sqli_2-ps.php (100%)
+ rename {test3.php => test3}/sqli_2.php (100%)
+ rename {test3.php => test3}/sqli_3.php (100%)
+ rename {test3.php => test3}/sqli_4.php (100%)
+ rename {test3.php => test3}/sqli_5.php (100%)
+ rename {test3.php => test3}/sqli_6.php (100%)
+ rename {test3.php => test3}/sqli_7.php (100%)
+ rename {test3.php => test3}/sqli_8-1.php (100%)
+ rename {test3.php => test3}/sqli_8-2.php (100%)
+ rename {test3.php => test3}/sqli_9.php (100%)
+ rename {test3.php => test3}/sqli_drupal.php (100%)
+ rename {test3.php => test3}/ssii.php (100%)
+ rename {test3.php => test3}/ssrf.php (100%)
+ rename {test3.php => test3}/stylesheets/stylesheet.css (100%)
+ rename {test3.php => test3}/stylesheets/stylesheet_low_resolution.css (100%)
+ rename {test3.php => test3}/stylesheets/stylesheet_normal_resolution.css (100%)
+ rename {test3.php => test3}/test.php (100%)
+ rename {test3.php => test3}/top_security.php (100%)
+ rename {test3.php => test3}/training.php (100%)
+ rename {test3.php => test3}/training_install.php (100%)
+ rename {test3.php => test3}/unrestricted_file_upload.php (100%)
+ rename {test3.php => test3}/unvalidated_redir_fwd_1.php (100%)
+ rename {test3.php => test3}/unvalidated_redir_fwd_2.php (100%)
+ rename {test3.php => test3}/update.php (100%)
+ rename {test3.php => test3}/user_activation.php (100%)
+ rename {test3.php => test3}/user_extra.php (100%)
+ rename {test3.php => test3}/user_new.php (100%)
+ rename {test3.php => test3}/web.config (100%)
+ rename {test3.php => test3}/ws_soap.php (100%)
+ rename {test3.php => test3}/xmli_1.php (100%)
+ rename {test3.php => test3}/xmli_2.php (100%)
+ rename {test3.php => test3}/xss_ajax_1-1.php (100%)
+ rename {test3.php => test3}/xss_ajax_1-2.php (100%)
+ rename {test3.php => test3}/xss_ajax_2-1.php (100%)
+ rename {test3.php => test3}/xss_ajax_2-2.php (100%)
+ rename {test3.php => test3}/xss_back_button.php (100%)
+ rename {test3.php => test3}/xss_custom_header.php (100%)
+ rename {test3.php => test3}/xss_eval.php (100%)
+ rename {test3.php => test3}/xss_get.php (100%)
+ rename {test3.php => test3}/xss_href-1.php (100%)
+ rename {test3.php => test3}/xss_href-2.php (100%)
+ rename {test3.php => test3}/xss_href-3.php (100%)
+ rename {test3.php => test3}/xss_json.php (100%)
+ rename {test3.php => test3}/xss_login.php (100%)
+ rename {test3.php => test3}/xss_php_self.php (100%)
+ rename {test3.php => test3}/xss_phpmyadmin.php (100%)
+ rename {test3.php => test3}/xss_post.php (100%)
+ rename {test3.php => test3}/xss_referer.php (100%)
+ rename {test3.php => test3}/xss_sqlitemanager.php (100%)
+ rename {test3.php => test3}/xss_stored_1.php (100%)
+ rename {test3.php => test3}/xss_stored_2.php (100%)
+ rename {test3.php => test3}/xss_stored_3.php (100%)
+ rename {test3.php => test3}/xss_stored_4.php (100%)
+ rename {test3.php => test3}/xss_user_agent.php (100%)
+ rename {test3.php => test3}/xxe-1.php (100%)
+ rename {test3.php => test3}/xxe-2.php (100%)
+(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites[00m$ cd test3
+(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites/test3[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites/test3[00m$ chmod 777 password
+chmod: cannot access 'password': No such file or directory
+(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites/test3[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites/test3[00m$ chmod 777 password
+password_change.php  passwords/           
+(myappenv) ]0;e
