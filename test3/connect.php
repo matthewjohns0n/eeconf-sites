@@ -15,35 +15,36 @@ Twitter: @MME_IT
 bWAPP is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (http://creativecommons.org/licenses/by-nc-nd/4.0/). Copyright © 2014 MME BVBA. All rights reserved.
 
 */
+include("connect_i.php");
 
-// Connection settings
-include("config.inc.php");
+// // Connection settings
+// include("config.inc.php");
 
-// Connects to the server
-$link = mysql_connect($server, $username, $password);
+// // Connects to the server
+// $link = mysql_connect($server, $username, $password);
 
-// Checks the connection
-if(!$link)
-{
+// // Checks the connection
+// if(!$link)
+// {
     
-    // @mail($recipient, "Could not connect to server: ", mysql_error());
+//     // @mail($recipient, "Could not connect to server: ", mysql_error());
     
-    die("Could not connect to the server: " . mysql_error());
+//     die("Could not connect to the server: " . mysql_error());
     
-}
+// }
 
-// Connects to the database
-$database = mysql_select_db($database, $link);
+// // Connects to the database
+// $database = mysql_select_db($database, $link);
 
-// Checks the connection
-if(!$database)
-{
+// // Checks the connection
+// if(!$database)
+// {
     
-    // @mail($recipient, "Could not connect to database: ", mysql_error());
+//     // @mail($recipient, "Could not connect to database: ", mysql_error());
     
-    die("Could not connect to the database: " . mysql_error()); 
+//     die("Could not connect to the database: " . mysql_error()); 
 
-}
+// }
 
 // mysql_close($link);
 
