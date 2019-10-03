@@ -2168,4 +2168,76 @@ Fast-forward
 chmod: cannot access 'password': No such file or directory
 (myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites/test3[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites/test3[00m$ chmod 777 password
 password_change.php  passwords/           
-(myappenv) ]0;e
+(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites/test3[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites/test3[00m$ chmod 777 passwords/ [A
+(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites/test3[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites/test3[00m$ chmod 777 passwords/ [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cimages
+(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites/test3[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites/test3[00m$ chmod 777 images[Kdocuments
+(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites/test3[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites/test3[00m$ chmod 777 documents[Klogs
+chmod: cannot access 'logs': No such file or directory
+(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites/test3[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites/test3[00m$ chmod 777 logs[K
+login.php   logout.php  
+(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites/test3[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites/test3[00m$ chmod 777 log[Kg
+login.php   logout.php  
+(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites/test3[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites/test3[00m$ chmod 777 log
+login.php   logout.php  
+(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites/test3[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites/test3[00m$ chmod 777 log
+login.php   logout.php  
+(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites/test3[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites/test3[00m$ chmod 777 log
+login.php   logout.php  
+(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites/test3[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites/test3[00m$ chmod 777 log
+login.php   logout.php  
+(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites/test3[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites/test3[00m$ chmod 777 log[K[K[K[K[K[K[K[K[K[K[K[K[K
+(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites/test3[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites/test3[00m$ git add .
+(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites/test3[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites/test3[00m$ git commit - [Km 'Persm [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kmi ssions'
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+	[31mmodified:   ../test2/typescript[m
+
+no changes added to commit
+(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites/test3[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites/test3[00m$ cd ../
+(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites[00m$ git add .
+(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites[00m$ git add .[3Pcd ../git commit -m 'Permissions''
+[master 7cb386b] Permissions
+ 1 file changed, 1132 insertions(+), 1 deletion(-)
+(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites[00m$ git show
+[?1h=[33mcommit 7cb386b91336e78846ae4aba5ff7f39f7ffa09cc[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m[m
+Author: Matt Johnson <moosematt11@gmail.com>[m
+Date:   Thu Oct 3 11:55:32 2019 -0400[m
+[m
+    Permissions[m
+[m
+[1mdiff --git a/test2/typescript b/test2/typescript[m[m
+[1mindex 2837b81..2b7781b 100644[m[m
+[1m--- a/test2/typescript[m[m
+[1m+++ b/test2/typescript[m[m
+[36m@@ -1037,4 +1037,1135 @@[m [mDelta compression using up to 4 threads.[m[m
+ Compressing objects:   0% (1/949)   [7m^M[27mCompressing objects:   1% (10/949)   [7m^M[27mCo[m mpressing objects:   2% (19/949)   [7m^M[27mCompressing objects:   3% (29/949)   [7m^M[27mComp[m ressing objects:   4% (38/949)   [7m^M[27mCompressing objects:   5% (48/949)   [7m^M[27mCompre[m ssing objects:   6% (57/949)   [7m^M[27mCompressing objects:   7% (67/949)   [7m^M[27mCompress[m ing objects:   8% (76/949)   [7m^M[27mCompressing objects:   9% (86/949)   [7m^M[27mCompressin[m g objects:  10% (95/949)   [7m^M[27mCompressing objects:  11% (105/949)   [7m^M[27mCompressing[m  objects:  12% (114/949)   [7m^M[27mCompressing objects:  13% (124/949)   [7m^M[27mCompressing[m  objects:  14% (133/949)   [7m^M[27mCompressing objects:  15% (143/949)   [7m^M[27mCompressing[m  objects:  16% (152/949)   [7m^M[27mCompressing objects:  17% (162/949)   [7m^M[27mCompressing[m  objects:  18% (171/949)   [7m^M[27mCompressing objects:  19% (181/949)   [7m^M[27mCompressing[m  objects:  20% (190/949)   [7m^M[27mCompressing objects:  21% (200/949)   [7m^M[27mCompressing[m  objects:  22% (209/949)   [7m^M[27mCompressing objects:  23% (219/949)   [7m^M[27mCompressing[m :[K[K[?1l>(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites[00m$ git pull origin master 
+From github.com:matthewjohns0n/eeconf-sites
+ * branch            master     -> FETCH_HEAD
+Already up to date.
+(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites[00m$ [C[32Preverse-i-search)`':[Cq': wget -qO - https://download.sublimetext.com/sublimehq-pub..gpg | sudo apt-key add -[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cfailed reverse-i-search)`qq': wget -qO - https://download.sublimetext.com/sublim[8@ehq-pub.[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cq': wget -qO - https://download.sublimetext.com/subli[1@m[C[C^C
+(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites[00m$ ^C
+(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites[00m$ sssh[K[K[K[Kls
+[0m[01;34meeconf[0m  [01;34minteresting-files[0m  [01;34mtest1[0m  [01;34mtest2[0m  [01;34mtest3[0m  [01;34mtest4[0m
+(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites[00m$ ssh[K[K[Kmysql[3Plsmysql[3Plsmysql -u root -p
+Enter password: 
+Welcome to the MySQL monitor.  Commands end with ; or \g.
+Your MySQL connection id is 30
+Server version: 5.7.27-0ubuntu0.18.04.1 (Ubuntu)
+
+Copyright (c) 2000, 2019, Oracle and/or its affiliates. All rights reserved.
+
+Oracle is a registered trademark of Oracle Corporation and/or its
+affiliates. Other names may be trademarks of their respective
+owners.
+
+Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+
+mysql> create a[Kdatabase bWAPP;
+Query OK, 1 row affected (0.01 sec)
+
+mysql> create database bWAPP;[P [P [P [P [P [P [1@d [1@e [1@t [1@e [1@e [P [1@t [1@e t[Pe[1@le
+ERROR 1064 (42000): You have an error in your SQL synta
