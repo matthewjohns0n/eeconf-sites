@@ -2240,4 +2240,129 @@ mysql> create a[Kdatabase bWAPP;
 Query OK, 1 row affected (0.01 sec)
 
 mysql> create database bWAPP;[P [P [P [P [P [P [1@d [1@e [1@t [1@e [1@e [P [1@t [1@e t[Pe[1@le
-ERROR 1064 (42000): You have an error in your SQL synta
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'database bWAPP' at line 1
+mysql> delete database bWAPP;DD[K[Kelete[P [P [P [P [P [1@r [1@o [1@p 
+Query OK, 0 rows affected (0.06 sec)
+
+mysql> exit;
+Bye
+(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites[00m$ git add .
+(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites[00m$ git commit -m 
+error: switch `m' requires a value
+usage: git commit [<options>] [--] <pathspec>...
+
+    -q, --quiet           suppress summary after successful commit
+    -v, --verbose         show diff in commit message template
+
+Commit message options
+    -F, --file <file>     read message from file
+    --author <author>     override author for commit
+    --date <date>         override date for commit
+    -m, --message <message>
+                          commit message
+    -c, --reedit-message <commit>
+                          reuse and edit message from specified commit
+    -C, --reuse-message <commit>
+                          reuse message from specified commit
+    --fixup <commit>      use autosquash formatted message to fixup specified commit
+    --squash <commit>     use autosquash formatted message to squash specified commit
+    --reset-author        the commit is authored by me now (used with -C/-c/--amend)
+    -s, --signoff         add Signed-off-by:
+    -t, --template <file>
+                          use specified template file
+    -e, --edit            force edit of commit
+    --cleanup <default>   how to strip spaces and #comments from message
+    --status              include status in commit message template
+    -S, --gpg-sign[=<key-id>]
+                          GPG sign commit
+
+Commit contents options
+    -a, --all             commit all changed files
+    -i, --include         add specified files to index for commit
+    --interactive         interactively add files
+    -p, --patch           interactively add changes
+    -o, --only            commit only specified files
+    -n, --no-verify       bypass pre-commit and commit-msg hooks
+    --dry-run             show what would be committed
+    --short               show status concisely
+    --branch              show branch information
+    --ahead-behind        compute full ahead/behind values
+    --porcelain           machine-readable output
+    --long                show status in long format (default)
+    -z, --null            terminate entries with NUL
+    --amend               amend previous commit
+    --no-post-rewrite     bypass post-rewrite hook
+    -u, --untracked-files[=<mode>]
+                          show untracked files, optional modes: all, normal, no. (Default: all)
+
+(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites[00m$ git commit -m 'B[KbWAPP insta lled'
+[master e0e7746] bWAPP installed
+ 2 files changed, 74 insertions(+), 2 deletions(-)
+(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites[00m$ git pull origin master 
+gFrom github.com:matthewjohns0n/eeconf-sites
+ * branch            master     -> FETCH_HEAD
+iAlready up to date.
+(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites[00m$ git push origin master 
+Counting objects: 11, done.
+Delta compression using up to 4 threads.
+Compressing objects:   9% (1/11)   Compressing objects:  18% (2/11)   Compressing objects:  27% (3/11)   Compressing objects:  36% (4/11)   Compressing objects:  45% (5/11)   Compressing objects:  54% (6/11)   Compressing objects:  63% (7/11)   Compressing objects:  72% (8/11)   Compressing objects:  81% (9/11)   Compressing objects:  90% (10/11)   Compressing objects: 100% (11/11)   Compressing objects: 100% (11/11), done.
+Writing objects:   9% (1/11)   Writing objects:  18% (2/11)   Writing objects:  27% (3/11)   Writing objects:  36% (4/11)   Writing objects:  45% (5/11)   Writing objects:  54% (6/11)   Writing objects:  63% (7/11)   Writing objects:  72% (8/11)   Writing objects:  81% (9/11)   Writing objects:  90% (10/11)   Writing objects: 100% (11/11)   Writing objects: 100% (11/11), 14.34 KiB | 2.87 MiB/s, done.
+Total 11 (delta 9), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/9)[Kremote: Resolving deltas:  22% (2/9)[Kremote: Resolving deltas:  44% (4/9)[Kremote: Resolving deltas:  66% (6/9)[Kremote: Resolving deltas:  77% (7/9)[Kremote: Resolving deltas:  88% (8/9)[Kremote: Resolving deltas: 100% (9/9)[Kremote: Resolving deltas: 100% (9/9), completed with 6 local objects.[K
+To github.com:matthewjohns0n/eeconf-sites.git
+   80912fb..e0e7746  master -> master
+(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites[00m$ chmod -R 777 test3/
+(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites[00m$ sql [K[K[K[Kmysql -u root
+ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using password: NO)
+(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites[00m$ mysql -u root -p 
+Enter password: 
+Welcome to the MySQL monitor.  Commands end with ; or \g.
+Your MySQL connection id is 65
+Server version: 5.7.27-0ubuntu0.18.04.1 (Ubuntu)
+
+Copyright (c) 2000, 2019, Oracle and/or its affiliates. All rights reserved.
+
+Oracle is a registered trademark of Oracle Corporation and/or its
+affiliates. Other names may be trademarks of their respective
+owners.
+
+Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+
+mysql> ls[K[Klist [K[K[K[Kuse database [K[K[K[K[K[K[K[KbWAPP
+Reading table information for completion of table and column names
+You can turn off this feature to get a quicker startup with -A
+
+Database changed
+mysql> show tables;
++-----------------+
+| Tables_in_bWAPP |
++-----------------+
+| blog            |
+| heroes          |
+| movies          |
+| users           |
+| visitors        |
++-----------------+
+5 rows in set (0.00 sec)
+
+mysql> select * from movies
+    -> ;
++----+--------------------------+--------------+--------+-----------------+-----------+---------------+
+| id | title                    | release_year | genre  | main_character  | imdb      | tickets_stock |
++----+--------------------------+--------------+--------+-----------------+-----------+---------------+
+|  1 | G.I. Joe: Retaliation    | 2013         | action | Cobra Commander | tt1583421 |           100 |
+|  2 | Iron Man                 | 2008         | action | Tony Stark      | tt0371746 |            53 |
+|  3 | Man of Steel             | 2013         | action | Clark Kent      | tt0770828 |            78 |
+|  4 | Terminator Salvation     | 2009         | sci-fi | John Connor     | tt0438488 |           100 |
+|  5 | The Amazing Spider-Man   | 2012         | action | Peter Parker    | tt0948470 |            13 |
+|  6 | The Cabin in the Woods   | 2011         | horror | Some zombies    | tt1259521 |           666 |
+|  7 | The Dark Knight Rises    | 2012         | action | Bruce Wayne     | tt1345836 |             3 |
+|  8 | The Fast and the Furious | 2001         | action | Brian O'Connor  | tt0232500 |            40 |
+|  9 | The Incredible Hulk      | 2008         | action | Bruce Banner    | tt0800080 |            23 |
+| 10 | World War Z              | 2013         | horror | Gerry Lane      | tt0816711 |             0 |
++----+--------------------------+--------------+--------+-----------------+-----------+---------------+
+10 rows in set (0.00 sec)
+
+mysql> eimysql> ezit[K[K[Kxit;
+Bye
+(myappenv) ]0;eeconf@eeconf-demo-server: ~/Desktop/sites[01;32meeconf@eeconf-demo-server[00m:[01;34m~/Desktop/sites[00m$ gi

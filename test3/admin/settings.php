@@ -48,7 +48,7 @@ $AIM_exclusions = array("aim.php", "ba_logout.php", "cs_validation.php", "csrf_1
 // It can be combined with the A.I.M. mode, your web scanner will ONLY detect the vulnerabilities
 // Evil bees are HUNGRY :)
 // Possible values: 0 (off) or 1 (on)
-$evil_bee = 0;
+$evil_bee = 1;
 
 // Static credentials
 // These credentials are used on some PHP pages
